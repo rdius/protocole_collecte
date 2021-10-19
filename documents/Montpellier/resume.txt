@@ -1,0 +1,16 @@
+Requête : "Montpellier" AND production?agricole
+Nombre de résultats affichés : 25
+
+Liste des résultats
+
+https://languedoc.msa.fr/
+https://www.umontpellier.fr/articles/tag/agriculture
+https://www.pacajob.com/emploi/domaine_agricole_ville_montpellier-34000.html
+https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+Erreur pour l'URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et
+https://fr.mappy.com/activite/agriculteurs/34000-montpellier
+https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/master-mention-sciences-et-technologies-de-l-agriculture-de-l-alimentation-et-de-l-environnement
+https://www.cairn.info/journal-autrepart-2012-3-page-159.htm
+Erreur pour l'URL : https://www.cairn.info/journal-autrepart-2012-3-page-159.htm
+https://www.cirad.fr/nos-activites-notre-impact/filieres-agricoles-tropicales

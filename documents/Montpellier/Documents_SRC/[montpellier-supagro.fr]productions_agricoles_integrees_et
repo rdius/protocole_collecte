@@ -1,0 +1,3422 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="description" content="Diagnostic, analyse et conseil pour concourir à la durabilité de l’agriculture" />
+<meta property="og:url" content="http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" />
+<meta property="og:title" content="Productions agricoles intégrées et enjeux environnementaux (PAIEE)" />
+<meta property="og:description" content="Diagnostic, analyse et conseil pour concourir à la durabilité de l’agriculture" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:image" content="http://www.montpellier-supagro.fr/sites/supagro/files/styles/max_1440x940/public/media/2017/05/19/background-paiee_0.jpg?itok=n8An4fan" />
+<link rel="shortcut icon" href="/themes/custom/supagro/favicon.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" />
+<link rel="canonical" href="http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" />
+<link rel="shortlink" href="http://www.montpellier-supagro.fr/node/166" />
+<link rel="revision" href="http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" />
+
+    <title>Licence professionnelle Productions agricoles intégrées et enjeux environnementaux (PAIEE) | L&#039;Institut Agro | Montpellier SupAgro</title>
+    <link rel="stylesheet" media="all" href="/sites/supagro/files/css/css_RnXP_pzyVVhmYeWzR6L_ZW2hIPy_jxfZFk4Peu2tCb4.css" />
+<link rel="stylesheet" media="all" href="/sites/supagro/files/css/css_0H-xjRvK8F_QED7kc9G-Sx-MuDYCp6q5nDuChpVH6D4.css" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/166","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"arc_cookie_compliance\/arc_cookie_compliance,classy\/base,classy\/messages,core\/html5shiv,core\/normalize,paragraphs\/drupal.paragraphs.unpublished,statistics\/drupal.statistics,supagro\/global-styling,supagro\/jquery-social-stream,supagro\/uikit_theme,system\/base","theme":"supagro","theme_token":null},"ajaxTrustedUrl":[],"cookieComplianceUrl":"\/mentions-legales","gaPropertyID":"UA-114565091-1","statistics":{"data":{"nid":"166"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"67f66c20f2dbbbdf6f033a2f6e182b5fe2e814f37a33642fa568414407aaac47"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/supagro/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/supagro/files/js/js_OOrdWe5M02TPB8HGT1CCtFzr-sAHCO6j5jmBmLx0Z78.js"></script>
+<script src="/modules/custom/arc_cookie_compliance/js/tarteaucitron/tarteaucitron.js?v=8.9.16"></script>
+<script src="/modules/custom/arc_cookie_compliance/js/jsVideoUrlParser.min.js?v=8.9.16"></script>
+<script src="/sites/supagro/files/js/js_TYR7Sx63pjuevjIwf0sybudY9fgp1N_HHVYboM-atrA.js"></script>
+
+  </head>
+  <body class="path-node page-node-type-training-standard">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div id="sa-ref-top" class="uk-position-relative uk-contrast uk-hidden-small uk-hidden-medium sa-no-print sa-text-xsmall">
+  <div class="uk-container uk-container-center">
+    <div class="uk-margin"></div>
+    <div class="uk-grid uk-flex-middle" data-uk-grid-margin>
+      <div class="uk-width-medium-1-6">
+        <div class="uk-grid" data-uk-grid-margin>
+              <div class="uk-width-1-1">
+    <div id="block-vousetes" class="block block-block-content block-block-contentca07ccbe-69a6-4a46-a93c-682ad9e50b8f">
+      <div class="sa-block">
+        <div class="sa-block-title"></div>
+        <div class="sa-block-content">
+          <div class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{mode:'click'}">
+            
+                          <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Vous êtes</button>
+                        
+            <div class="uk-dropdown">
+                <ul class="uk-nav uk-nav-dropdown">
+          <li><a href="/etudiant" class="sa-text-silver-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-lesson" aria-hidden="true"></i>Etudiant·e</a></li>     
+            <li><a href="/etudiant-international" class="sa-text-orange-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-world" aria-hidden="true"></i>Etudiant·e international·e</a></li>     
+            <li><a href="/apprenti" class="sa-text-brown-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-tree" aria-hidden="true"></i>Apprenti·e</a></li>     
+            <li><a href="/diplome" class="sa-text-red-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-student" aria-hidden="true"></i>Diplômé·e</a></li>     
+            <li><a href="/entreprise-professionnel" class="sa-text-green-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-worker" aria-hidden="true"></i>Entreprise / professionnel</a></li>     
+            <li><a href="/partenaire-scientifique" class="sa-text-purple-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microscope" aria-hidden="true"></i>Partenaire scientifique</a></li>     
+            <li><a href="/media" class="sa-text-blue-color-important"><i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microphone" aria-hidden="true"></i>Média</a></li>     
+       
+  </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  
+
+
+        </div>
+      </div>
+      <div class="uk-width-medium-1-6">
+        <div class="uk-grid" data-uk-grid-margin>
+              <div class="uk-width-1-1">
+    <div id="block-ressources" class="block block-system block-system-menu-blockresources">
+      <div class="sa-block">
+        <div class="sa-block-title"></div>
+        <div class="sa-block-content">
+          <div class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{mode:'click'}">
+            
+                          <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Ressources</button>
+                        
+            <div class="uk-dropdown">
+                
+    
+          <ul class="uk-nav uk-nav-dropdown">
+                  <li>
+            <a href="/centres-ressources-et-documentation">
+              Centres de ressources et de documentation
+            </a>
+          </li>
+                  <li>
+            <a href="/conferences-culturesciences">
+              Conférences CultureSciences
+            </a>
+          </li>
+                  <li>
+            <a href="/journee-scientifique-vigne-vin-jsvv">
+              Journée Scientifique Vigne-Vin (JSVV)
+            </a>
+          </li>
+                  <li>
+            <a href="/journee-des-innovations-pour-une-alimentation-durable-jipad">
+               Journée des innovations pour une alimentation durable - JIPAD
+            </a>
+          </li>
+                  <li>
+            <a href="http://www.supagro.fr/web/services/on-parle-de-nous/">
+              On parle de L&#039;institut Agro et de Montpellier SupAgro
+            </a>
+          </li>
+              </ul>
+
+    
+  
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  
+
+
+        </div>
+      </div>
+      <div class="uk-width-medium-1-6">
+        <div class="uk-grid" data-uk-grid-margin>
+              <div class="uk-width-1-1">
+    <div id="block-accesdirect" class="block block-system block-system-menu-blockdirect-access">
+      <div class="sa-block">
+        <div class="sa-block-title"></div>
+        <div class="sa-block-content">
+          <div class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{mode:'click'}">
+            
+                          <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Accès direct</button>
+                        
+            <div class="uk-dropdown">
+                
+    
+          <ul class="uk-nav uk-nav-dropdown">
+                  <li>
+            <a href="/espace-presse">
+              Espace presse
+            </a>
+          </li>
+                  <li>
+            <a href="/recherche/organisation-devenement-scientifique">
+              Organisation d&#039;événements
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/web/services/offre-stage/">
+              Dépôt d&#039;offres stages &amp; alternance
+            </a>
+          </li>
+                  <li>
+            <a href="/recrutement-des-personnels">
+              Recrutement des personnels
+            </a>
+          </li>
+                  <li>
+            <a href="/les-marches-publics">
+              Marchés publics
+            </a>
+          </li>
+                  <li>
+            <a href="/plan-acces">
+              Plans d&#039;accès
+            </a>
+          </li>
+                  <li>
+            <a href="/contact">
+              Contact
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/web/intranet/">
+              Intranet
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.institut-agro.fr">
+              L&#039;institut Agro
+            </a>
+          </li>
+                  <li>
+            <a href="https://projet.institut-agro.fr/">
+              Plateforme &quot;Projet de l&#039;institut Agro&quot;
+            </a>
+          </li>
+                  <li>
+            <a href="http://www.supagro.fr/web/en/">
+              English version
+            </a>
+          </li>
+                  <li>
+            <a href="https://supagro-alumni.hivebrite.com/">
+              Montpellier SupAgro Alumni
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/fondation/">
+              SupAgro Fondation
+            </a>
+          </li>
+              </ul>
+
+    
+  
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  
+
+
+        </div>
+      </div>
+      <div class="uk-width-medium-4-10">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-liens" class="block block-block-content block-block-content7ac382cc-eb1b-4f27-8952-a0cc1ccc2a23">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+        <div class="sa-text-right">
+          <div class="sa-list-website">
+              
+   
+             <a href="https://www.institut-agro.fr" target="_blank">L&#039;institut Agro</a>
+        
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-medium-1-10">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-liensecoles" class="block block-block-content block-block-contentd9042149-9349-4319-a321-6b54e93181bf">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+        <div class="sa-text-right">
+          <div class="sa-list-language">
+              
+   
+             <a href="/" target="_self" class="uk-active">FR</a>
+             <a href="https://en.montpellier-supagro.fr" target="_self">EN</a>
+        
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="uk-margin"></div>
+  </div>
+</div><div id="sa-ref-group-header" class="uk-position-relative">
+  <div id="sa-ref-header" class="uk-position-relative sa-text-xsmall">
+    <header class="uk-container uk-container-center uk-padding-remove">
+      <!--[if gt IE 9]><!-->
+      <div data-uk-sticky="{animation:'uk-animation-fade', media:'(max-width:959px)', showup:true}">
+        <!--<![endif]-->
+        <div class="sa-padding sa-background-half-transparent sa-background-white-color-half-transparent">
+  <div class="uk-margin"></div>
+  <div class="uk-grid uk-flex-middle" data-uk-grid-margin>
+    <div class="uk-width-3-4 uk-width-large-1-2">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-supagro-branding" class="block block-system block-system-branding-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="uk-grid uk-flex-bottom" data-uk-grid-margin>
+          <div class="uk-width-1-1 uk-width-large-1-1">
+                 <p class="uk-margin-remove">
+        <a href="/">
+            
+          <img src="/themes/custom/supagro/logo.png" alt="L&#039;Institut Agro | Montpellier SupAgro" class="logocorporate"/>
+            
+        </a>
+      </p>
+    </div>
+       </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <div class="uk-width-1-4 uk-hidden-large sa-no-print">
+      <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-1">
+          <div class="sa-block">
+            <div class="sa-block-title"></div>
+            <div class="sa-block-content">
+              <div class="sa-text-right">
+                <a href="#sa-ref-offcanvas" class="uk-icon-hover uk-icon-large uk-icon-navicon" data-uk-offcanvas="{mode:'slide'}"><span class="sa-text-readable">Ouvrir le menu</span></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="uk-width-large-3-10 uk-hidden-small uk-hidden-medium sa-no-print">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-headerreseauxsociaux" class="block block-block-content block-block-content4fc07ea8-1f37-4a55-bc62-d7e025e976ea">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+        <div class="sa-text-right">
+            <ul class="uk-margin-remove sa-list-line">
+    
+   
+             <li>
+  <a href="http://www.facebook.com/montpellier.supagro" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-facebook">
+    <span class="sa-text-readable">Voir la page Facebook</span>
+  </a>
+</li>  
+             <li>
+  <a href="http://twitter.com/supagro" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-twitter">
+    <span class="sa-text-readable">Voir la page Twitter</span>
+  </a>
+</li>  
+             <li>
+  <a href="https://www.linkedin.com/company/544687?trk=edu-cp-sa-cname" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-linkedin">
+    <span class="sa-text-readable">Voir la page Linkedin</span>
+  </a>
+</li>  
+             <li>
+  <a href="https://www.youtube.com/channel/UCOuRodr0Wh-qTfTqxtbiASw" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-youtube-play">
+    <span class="sa-text-readable">Voir la chaîne YouTube</span>
+  </a>
+</li>  
+             <li>
+  <a href="http://www.dailymotion.com/montpelliersupagro" target="_blank" class="uk-icon-hover uk-icon-medium sa-custom-icon-dailymotion">
+    <span class="sa-text-readable">Voir la page Dailymotion</span>
+  </a>
+</li>  
+        
+  </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <div class="uk-width-large-2-10 uk-hidden-small uk-hidden-medium sa-no-print">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-boutonactualites" class="block block-block-content block-block-contentab602ff7-f51b-49f3-b3d1-6df997579002">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+   
+             <a href="/actualites" target="" rel="" class="uk-width-1-1 uk-button sa-button-revert-primary-color sa-button-border-large sa-text-uppercase">Actualités</a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+  <div class="uk-margin"></div>
+</div>        <!--[if gt IE 9]><!-->
+      </div>
+      <!--<![endif]-->
+    </header>
+  </div>
+  <div id="sa-ref-nav" class="uk-position-relative uk-hidden-small uk-hidden-medium sa-no-print">
+    <nav class="uk-container uk-container-center uk-padding-remove">
+      <div data-uk-sticky="{animation:'uk-animation-slide-top', media:'(min-width:960px)', showup:true}">
+        <div class="uk-navbar sa-border sa-border-bottom-only">
+  <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-9-10">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-supagro-main-menu" class="block block-system block-system-menu-blockmain">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+    
+            <ul class="uk-navbar-nav">
+                              <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">Une grande école</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Présentation
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/une-grande-ecole/presentation/montpellier-supagro">Une école de l&#039;institut Agro</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/bilan-social">Bilan social</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/la-demarche-qualite-montpellier-supagro">Démarche qualité</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/developpement-durable">Développement durable</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/membres-partenaires">Membres &amp; partenaires</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/implantation-geographique">Implantation géographique</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/historique-dune-grande-ecole">Historique</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Organisation et gouvernance
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/equipe-de-direction-de-montpellier-supagro">Organigramme général &amp; équipe de direction</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/gouvernance-et-conseils">Conseils et commissions</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/les-departements">Départements de formation et de recherche</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/instituts-de-montpellier-supagro">Instituts</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/domaines-experimentaux">Domaines expérimentaux</a>
+                      </li>
+                              <li>
+                      <a href="http://www.supagro-alumni.fr/">SupAgro Alumni</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation">SupAgro Fondation</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Thématiques emblématiques
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/institut-hautes-etudes-vigne-vin-ihev">Vigne et vin</a>
+                      </li>
+                              <li>
+                      <a href="/institut-des-regions-chaudes-irc">Développement durable au Sud</a>
+                      </li>
+                              <li>
+                      <a href="/institut-florac">Appui à l&#039;enseignement agricole</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/alimentation-durable">Alimentation durable</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/agro-ecologie">Agroécologie</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/agriculture-numerique">Agriculture numérique</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/innovation-entreprenariat">Innovation et entrepreunariat</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                                    <div class="uk-width-1-1">
+    <div id="block-montpelliersupagroenbref" class="block block-block-content block-block-contente6d6701b-1334-4d6d-a603-c5296ae000c0">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-white-color">
+          
+                      <p class="uk-display-inline-block uk-margin-remove sa-padding-large-horizontal sa-padding-small-vertical sa-background sa-background-primary-color sa-text-white-color sa-text-large uk-width-1-1">
+              Montpellier SupAgro
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color">
+            <div class="sa-padding">
+    
+           <p><a href="/sites/supagro/files/documents/2019/01/29/2019-chiffres-cles-Montpellier-SupAgro-web.pdf" target="_blank"><img alt="Etudiantes sur le campus de La Gaillarde" class="uk-overlay-scale" height="300" src="/sites/supagro/files/styles/max_450x300/public/media/2018/02/20/%C3%A9tudiantes-campus-la-gaillarde.jpg?itok=t31UtnTb" srcset="/sites/supagro/files/styles/max_450x300/public/media/2018/02/20/%C3%A9tudiantes-campus-la-gaillarde.jpg?itok=t31UtnTb 1x, /sites/supagro/files/styles/max_900x600/public/media/2018/02/20/%C3%A9tudiantes-campus-la-gaillarde.jpg?itok=uqEKqYUv 2x" typeof="foaf:Image" width="450" /></a></p>
+
+<p>Une <strong>Grande Ecole</strong> largement ouverte sur la <strong>Méditerranée </strong>et les <strong>pays du Sud.</strong></p>
+
+      
+        <hr/>
+    <p class="sa-text-decoration-remove sa-text-right sa-text-uppercase">
+      
+           <a href="/une-grande-ecole/presentation/montpellier-supagro" target="_self">Je découvre</a>
+      
+    </p>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                                        <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">Formations</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/formations/catalogue-des-formations">
+                            <span class="sa-text-large sa-text-uppercase">Catalogue des formations</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation">Recherche d&#039;une formation</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/bpa-berger-transhumant">Brevet Professionnel Agricole</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/licences-professionnelles">Licences professionnelles</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/ingenieurs">Ingénieurs</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/masters">Masters</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/masteres-specialises">Mastères spécialisés®</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/la-these-de-doctorat">Doctorat</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-national-doenologue-dno">Diplôme national d&#039;œnologue</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-detudes-specialisees-en">Diplôme d&#039;études spécialisées en management de la vigne et du vin</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-etudes-specialisees-agronomie">Diplôme d’Études Spécialisées en Agronomie</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-etudiant-entrepreneur-d2e">Diplôme Etudiant Entrepreneur</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li>
+                                                                        <a href="/formations/le-projet-detudiants-ingenieurs">
+                            <span class="sa-text-large sa-text-uppercase">Professionnalisation des étudiants</span>
+                          </a>
+                                                                      </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/formations/alternance">
+                            <span class="sa-text-large sa-text-uppercase">Licences, masters, ingénieurs en alternance</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/alternance/apprentissage">Contrat d&#039;apprentissage</a>
+                      </li>
+                              <li>
+                      <a href="/formations/alternance/professionnalisation">Contrat de professionnalisation</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/formations/se-former-tout-au-long-de-la-vie">
+                            <span class="sa-text-large sa-text-uppercase">Formation professionnelle continue</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/se-former-tout-au-long-de-la-vie">Financement</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation?f%5B0%5D=public%3A32">Recherche d&#039;une formation continue diplômante</a>
+                      </li>
+                              <li>
+                      <a href="/formations/formation-tout-au-long-de-la-vie/recherche-d-une-formation-continue">Recherche d&#039;une formation continue courte</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li>
+                                                                        <a href="/formations/presentation-du-dispositif-national-dappui">
+                            <span class="sa-text-large sa-text-uppercase">Appui à l&#039;enseignement technique agricole</span>
+                          </a>
+                                                                      </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Financement des études
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/financement-des-etudes/bourses-pour-les-formations-et-la-recherche">Bourse à destination des étudiants étrangers</a>
+                      </li>
+                              <li>
+                      <a href="/formations/financement-des-etudes/fonds-daction-sociale">Fonds d’Action Sociale</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                                    <div class="uk-width-1-1">
+    <div id="block-panoramadesformationsetdiplomes" class="block block-block-content block-block-contentd209d1c6-bf57-44fb-8610-5c7007e06431">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-white-color">
+          
+                      <p class="uk-display-inline-block uk-margin-remove sa-padding-large-horizontal sa-padding-small-vertical sa-background sa-background-primary-color sa-text-white-color sa-text-large uk-width-1-1">
+              Devenir ingénieur·e : un choix dès le lycée
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color">
+            <div class="sa-padding">
+    
+           <p><a href="/formations/devenir-ingenieur-des-le-lycee"><img alt="Devenir ingénieur·e à Montpellier SupAgro se décide dès le Lycée" class="uk-overlay-scale" height="300" src="/sites/supagro/files/styles/max_450x300/public/media/2020/01/29/inside--lycee.jpg?itok=36e3mtp-" srcset="/sites/supagro/files/styles/max_450x300/public/media/2020/01/29/inside--lycee.jpg?itok=36e3mtp- 1x, /sites/supagro/files/styles/max_900x600/public/media/2020/01/29/inside--lycee.jpg?itok=QGcRgVbk 2x" typeof="foaf:Image" width="450" /></a></p>
+
+<p>• <strong>Au lycée, </strong>quelles spécialités choisir pour devenir ingénieur·e à Montpellier SupAgro ?<br />
+• <strong>Après le Bac,</strong> quelles sont les conditions d’accès aux cursus Ingénieur de Montpellier SupAgro ?</p>
+
+      
+        <hr/>
+    <p class="sa-text-decoration-remove sa-text-right sa-text-uppercase">
+      
+           <a href="/formations/devenir-ingenieur-des-le-lycee">Je m&#039;informe !</a>
+      
+    </p>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                                        <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">Vie étudiante</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Campus dynamiques
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/vie-associative">Vie associative</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/le-sport-montpellier-supagro">Activités sportives</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/accessibilite-et-handicap">Accessibilité et handicap</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/vie-etudiante/restauration">
+                            <span class="sa-text-large sa-text-uppercase">Lieu de vie</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/vie-etudiante/lieu-de-vie/hebergement">Hébergement</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/restauration">Restauration</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                                        <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">Recherche</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/recherche/politique-scientifique/politique-scientifique">
+                            <span class="sa-text-large sa-text-uppercase">Politique scientifique</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/recherche/politique-scientifique/politique-scientifique">Un continuum formation, recherche et innovation</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/politique-scientifique/open-access-archives-ouvertes">Open access - Archives ouvertes</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche">Unités de recherche (UMR...)</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Dispositifs de recherche et expérimentaux
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/domaines-experimentaux">Domaines expérimentaux</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/plateformes-et-halles-technologiques">Plateformes et halles technologiques</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/vignoble-pedagogique-pierre-galet">Vignoble expérimental et pédagogique</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Le doctorat à Montpellier SupAgro
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/la-these-de-doctorat">Thèse de doctorat</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/les-ecoles-doctorales">Êcoles doctorales</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/comment-sinscrire-en-these">Comment s&#039;inscrire ?</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/cotutelle-de-these">Cotutelle de thèse</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/recherche/organisation-devenement-scientifique">
+                            <span class="sa-text-large sa-text-uppercase">Organisation d&#039;événement scientifique</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/recherche/organisation-evenement-scientifique">À Montpellier</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/organisation-devenement-scientifique/florac">À Florac</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                                        <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">Innovations, expertises &amp; partenariats</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/lien-aux-entreprises">
+                            <span class="sa-text-large sa-text-uppercase">Lien aux entreprises</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/formations/se-former-tout-au-long-de-la-vie">Formation professionnelle continue</a>
+                      </li>
+                              <li>
+                      <a href="/forummetiers">Forum des métiers</a>
+                      </li>
+                              <li>
+                      <a href="/stages">Recrutement &amp; stages</a>
+                      </li>
+                              <li>
+                      <a href="/formations/le-projet-detudiants-ingenieurs">Commande d&#039;un projet mené par des étudiants ingénieurs</a>
+                      </li>
+                              <li>
+                      <a href="/taxe">Versement de la taxe d&#039;apprentissage</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation">SupAgro Fondation</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Innovations &amp; Entrepreunariat
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/agro-valo-mediterranee-0">Transfert &amp; innovation - Agro Valo Méditerranée</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/agro-valo-mediterranee">Incubateur d’entreprises innovantes - Agro Valo Méditerranée</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/cappo-sud-porteurs-de-projets-au">Création d&#039;entreprises au sud - Capp&#039;O Sud</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Expertises
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-service-defis">Au Sud - le service DEFIS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/capeye-loeil-sur-la-pac">Cellule de veille et de formation sur la Politique Agricole Commune - CAPeye</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/la-junior-etude-de-montpellier-supagro-jema">Conseil en ingénierie - JEMA</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-reseau-international-far">Formation agricole et rurale au Sud - Réseau FAR</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/agrotic-services">TIC pour agriculture &amp; environnement - AgroTIC Services</a>
+                      </li>
+                              <li>
+                      <a href="/institut-hautes-etudes-vigne-vin-ihev">Vigne et vin</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Chaires
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-partenariale">Ingénierie pour des agrosystèmes durables - AgroSYS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-agrotic">Agriculture numérique - AgroTIC</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-unesco">Alimentations du Monde - Chaire UNESCO</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-elsa-pact">Evaluation de la durabilité du cycle de vie - ELSA-PACT</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                                    <div class="uk-width-1-1">
+    <div id="block-supagrofondation" class="block block-block-content block-block-contentba068581-6ec0-49fb-aae3-7bb4e6b7c54d">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-white-color">
+          
+                      <p class="uk-display-inline-block uk-margin-remove sa-padding-large-horizontal sa-padding-small-vertical sa-background sa-background-primary-color sa-text-white-color sa-text-large uk-width-1-1">
+              SupAgro Fondation
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color">
+            <div class="sa-padding">
+    
+           <figure class="uk-overlay uk-overlay-hover"><a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation"><img alt="SupAgro Fondation - Programme &quot;Solidarité et diversité&quot;" class="uk-overlay-scale" height="300" src="/sites/supagro/files/styles/max_450x300/public/media/2017/07/26/fondation-g%C3%A9n%C3%A9rique.jpg?itok=CeaSVa1C" srcset="/sites/supagro/files/styles/max_450x300/public/media/2017/07/26/fondation-g%C3%A9n%C3%A9rique.jpg?itok=CeaSVa1C 1x, /sites/supagro/files/styles/max_900x600/public/media/2017/07/26/fondation-g%C3%A9n%C3%A9rique.jpg?itok=ufBra8qU 2x" typeof="foaf:Image" width="450" /></a></figure><p>Une fondation à votre service !</p>
+
+      
+        <hr/>
+    <p class="sa-text-decoration-remove sa-text-right sa-text-uppercase">
+      
+           <a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation" target="_self" rel="">Je découvre</a>
+      
+    </p>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                                        <li data-uk-dropdown="{hoverDelayIdle:0, justify:'#sa-ref-nav', mode:'click', remaintime:0}">
+              <a href="javascript:void(0);">
+                <span class="sa-text-bold sa-text-uppercase">International</span>
+              </a>
+                  
+            <div class="uk-dropdown">
+        <div class="uk-container uk-container-center uk-padding-remove">
+          <div class="uk-grid">
+            <div class="uk-width-medium-2-3">
+              <div class="uk-grid-width-small-1-1 uk-grid-width-medium-1-2" data-uk-grid="{gutter:20}" data-uk-check-display>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li>
+                                                                        <a href="/international/la-strategie-linternational">
+                            <span class="sa-text-large sa-text-uppercase">Stratégie à l&#039;international</span>
+                          </a>
+                                                                      </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/innovations-expertises-partenariats/expertises/le-service-defis">
+                            <span class="sa-text-large sa-text-uppercase">Coopération et partenariats internationaux</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-service-defis">Le service DEFIS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-reseau-international-far">Le réseau international Formation Agricole et Rurale (FAR)</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <span class="uk-display-block uk-nav-header sa-text-large sa-text-primary-color sa-text-regular sa-text-uppercase">
+                            Venir se former à Montpellier SupAgro
+                          </span>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/venir-en-mobilite-diplomante">Formation diplômante</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-se-former-montpellier-supagro/etudes-en-france">Études en France - Procédure Campus France</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/venir-en-echange-academique">Programme d&#039;échange &amp; stage</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-se-former-montpellier-supagro/junior-research-lab-at">Junior Research Lab pour les transitions vers la durabilité en Agriculture</a>
+                      </li>
+                              <li>
+                      <a href="/formations/financement-des-etudes/bourses-pour-les-formations-et-la-recherche">Bourses</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/langues">Langues</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/votre-service/preparer-votre-arrivee-montpellier">De la préparation de votre arrivée à votre accueil</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                                  <div>
+                    <ul class="uk-nav">
+                                              <li class="uk-parent">
+                                                                        <a href="/international/developper-ses-competences-linternational">
+                            <span class="sa-text-large sa-text-uppercase">Partir se former à l’international</span>
+                          </a>
+                                                                              
+            <ul class="uk-nav-sub">
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/partir-en-mobilite-academique">Mobilité académique</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/doubles-diplomes">Doubles diplômes</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/financer-votre-mobilite-academique">Financer votre mobilité académique</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/financer-votre-stage">Financer votre stage à l&#039;international</a>
+                      </li>
+              </ul>
+    
+  
+                                              </li>
+                    </ul>
+                  </div>
+                              </div>
+            </div>
+            <div class="uk-width-medium-1-3">
+              <div class="uk-grid" data-uk-grid-margin>
+                                    <div class="uk-width-1-1">
+    <div id="block-campusdetesummerschools" class="block block-block-content block-block-content67e242f9-8b06-4cef-a094-05381e8294fd">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-white-color">
+          
+                      <p class="uk-display-inline-block uk-margin-remove sa-padding-large-horizontal sa-padding-small-vertical sa-background sa-background-primary-color sa-text-white-color sa-text-large uk-width-1-1">
+              Venir en programme d&#039;échange 
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color">
+            <div class="sa-padding">
+    
+           <figure class="uk-overlay uk-overlay-hover"><p><a href="https://www.montpellier-supagro.fr/international/venir-etudier-montpellier-supagro/venir-en-echange-academique"><img alt="Etudiantes travaillant sur le végétal" class="uk-overlay-scale" height="300" src="/sites/supagro/files/styles/max_450x300/public/media/2018/09/20/stage-vegetal.jpg?itok=WPzh1rQ4" srcset="/sites/supagro/files/styles/max_450x300/public/media/2018/09/20/stage-vegetal.jpg?itok=WPzh1rQ4 1x, /sites/supagro/files/styles/max_900x600/public/media/2018/09/20/stage-vegetal.jpg?itok=xajDZoRC 2x" typeof="foaf:Image" width="450" /></a></p>
+</figure><p>Etudiant.e international.e, venez suivre<strong> un cours</strong> ou<strong> faire un stage</strong> à Montpellier SupAgro. Suivez le guide !</p>
+
+      
+        <hr/>
+    <p class="sa-text-decoration-remove sa-text-right sa-text-uppercase">
+      
+           <a href="/international/venir-etudier-montpellier-supagro/venir-en-echange-academique" target="_self">Je m&#039;informe !</a>
+      
+    </p>
+      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+                              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+  
+            </li>
+                        </ul>
+
+    
+  
+
+
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <div class="uk-width-1-10">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-arcsearchsearchbar" class="block block-arc-search block-arc-search-search-bar">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          <form action="/recherche" method="GET" class="uk-form">
+  <div class="sa-text-right">
+    <div class="uk-button-dropdown" data-uk-dropdown="{justify:'#sa-ref-nav', mode:'click', pos:'left-center'}">
+      <button type="submit" class="uk-position-relative uk-navbar-toggle uk-navbar-toggle-alt sa-position-high-z-index"><span class="sa-text-readable">Envoyer</span></button>
+      <div class="uk-dropdown sa-dropdown-search sa-background sa-background-primary-xlight-color">
+        <div class="uk-container uk-container-center">
+          <input type="text" name="search_api_fulltext" placeholder="Rechercher" class="uk-width-1-1"/>
+        </div>
+      </div>
+    </div>
+  </div>
+</form>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+</div>      </div>
+    </nav>
+  </div>
+</div>  <div id="sa-ref-breadcrumb" class="uk-position-relative uk-contrast sa-text-xsmall">
+    <div class="uk-container uk-container-center">
+      <div class="uk-margin"></div>
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-supagro-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+                    <ul class="uk-breadcrumb">
+    <li>Vous êtes ici :</li>
+          <li>
+                  <a href="/">Accueil</a>
+              </li>
+          <li>
+                  <a href="/formations/catalogue-des-formations/recherche-d-une-formation">Formations</a>
+              </li>
+          <li>
+                  <a href="/formations/catalogue-des-formations/recherche-d-une-formation">Catalogue des formations</a>
+              </li>
+          <li>
+                  <a href="/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et">Productions agricoles intégrées et enjeux environnementaux (PAIEE)</a>
+              </li>
+      </ul>
+
+              </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+      <div class="uk-margin"></div>
+    </div>
+  </div>
+<div id="sa-ref-content" class="uk-position-relative">
+    <div class="uk-position-relative uk-cover sa-banner-cover">
+    <figure class="sa-no-print">
+        <picture>
+            <img class="uk-cover-object" width="1920" height="1080" src="/sites/supagro/files/styles/max_1920x1080/public/media/2017/05/19/background-paiee_0.jpg?itok=GVEvWqkX" alt="Licence Professionnelle - Productions agricoles intégrées et enjeux environnementaux" typeof="foaf:Image" />
+
+  </picture>
+
+    </figure>
+    <div class="uk-position-cover">
+      <div class="sa-background-half-transparent sa-background-contrast-primary-color-half-transparent">
+
+<div class="uk-contrast uk-container uk-container-center sa-background-transparent">
+   
+  <div class="uk-margin-large"></div>
+  <div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-large-8-10">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-supagro-page-title" class="block block-core block-page-title-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+                  
+  <p>    
+    <span class="uk-margin-small-right uk-badge sa-badge-bronze-color sa-text-xsmall">Licence Professionnelle - Bachelor of Science 3</span  
+  </p>
+  <h1 class="page-title uk-margin-remove"><span class="field field--name-title field--type-string field--label-hidden">Productions agricoles intégrées et enjeux environnementaux (PAIEE)</span>
+</h1>
+           
+
+              </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+    <div class="uk-width-large-2-10 uk-hidden-small uk-hidden-medium sa-no-print">
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-arcshareblock" class="block block-arc-shareblock">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+                    <div class="sa-text-center">
+    
+    <ul id="sa-ref-share" class="sa-list-line">
+           
+              <li><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A//www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" class="uk-icon-button uk-icon-facebook sa-icon-button-facebook-color" onclick="window.open(this.href, &quot;&quot;, &quot;scrollbars=1,resizable=1,height=560,width=770&quot;); return false;"><span class="sa-text-readable">Voir la page Facebook</span></a></li>
+                <li><a href="https://twitter.com/intent/tweet?url=http%3A//www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et&amp;original_referer=http%3A//www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et" class="uk-icon-button uk-icon-twitter sa-icon-button-twitter-color" onclick="window.open(this.href, &quot;&quot;, &quot;scrollbars=1,resizable=1,height=560,width=770&quot;); return false;"><span class="sa-text-readable">Voir la page Twitter</span></a></li>
+            </ul>
+  </div>
+
+              </div>
+    </div>
+  </div>
+</div><div class="uk-width-1-1">
+  <div id="block-arcblockdateupdated" class="block block-arc-blocks block-arc-block-update">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+                    <p class="sa-text-center uk-remove-margin uk-text-xsmall">
+    Mise à jour :
+    21/06/2021
+  </p>
+
+              </div>
+    </div>
+  </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+  <div class="uk-margin-large"></div>
+</div>
+
+      </div>
+    </div>
+  </div>
+  <div class="uk-container uk-container-center">
+    <div class="uk-margin-large"></div>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="op-width-full uk-width-large-3-4">
+        <div class="uk-grid" data-uk-grid-margin>
+                        <div class="uk-width-1-1">
+  <div id="block-supagro-messages" class="block block-system block-system-messages-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          <div data-drupal-messages-fallback class="hidden"></div>
+      </div>
+    </div>
+  </div>
+</div><div class="uk-width-1-1">
+  <div id="block-supagro-content" class="block block-system block-system-main-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+                    
+<div>
+        <blockquote class="uk-blockquote">
+      <p>Diagnostic, analyse et conseil pour concourir à la durabilité de l’agriculture</p>
+    </blockquote>
+    <hr class="sa-hr-large"/>
+  
+         
+  <div class="sa-training">  
+   <div class="uk-grid uk-grid-divider" data-uk-grid-margin="">
+              <div class="uk-width-medium-1-2 uk-row-first">
+          
+           <div>
+                
+                   <dl class="uk-description-list-line sa-text-small">
+                        <dt class="uk-text-uppercase sa-text-xbold"><i class="uk-icon-small uk-icon-justify uk-icon-info-circle" aria-hidden="true"></i>   Quelles voies d'accès possibles ?</dt>
+                        <dd>
+                           <ul>                               <li>formation initiale sous statut apprenti</li>
+                                                          <li>formation professionnelle continue diplômante non alternante</li>
+                                                          <li>contrat de professionnalisation</li>
+                                                          <li>validation des acquis de l’expérience</li>
+                                                      </ul>       
+                       </dd>                                         
+                    </dl>
+                              
+                                  <dl class="uk-description-list-line sa-text-small">
+                        <dt class="uk-text-uppercase sa-text-xbold"><i class="uk-icon-small uk-icon-justify uk-icon-user" aria-hidden="true"></i>  Pour qui ?</dt>
+                        <dd>
+                           <ul>                               <li>étudiant titulaire d&#039;un diplôme français</li>
+                                                               <li>étudiant international</li>
+                                                               <li>salarié ou demandeur d&#039;emploi</li>
+                                                                
+                           </ul>
+                            <p><strong>Note :</strong> pour les&nbsp;<strong>étudiants internationaux</strong>,&nbsp;une année de séjour en France est requise pour conclure un contrat d'apprentissage.</p>
+
+                       </dd>                                         
+                    </dl>
+                          </div>
+       </div>
+              <div class="uk-width-medium-1-2 sa-width-notop">
+           <div>
+              <dl class="uk-description-list-line sa-text-small">
+                                      <dt class="uk-text-uppercase sa-text-xbold">
+                        <i class="uk-icon-small uk-icon-justify uk-icon-small uk-icon-justify uk-icon-map-marker" aria-hidden="true"></i> 
+                        Où ?
+                    </dt>
+                    <dd>
+                        <ul>
+                                                  <li>Montpellier SupAgro (Campus la Gaillarde)</li>
+                                                </ul>
+                        <ul>
+	<li>Legta Charlemagne de Carcassonne</li>
+</ul>
+
+                    </dd>
+                       
+                    
+                </dl>
+           </div>
+       </div>
+               
+       </div>
+</div>
+ 
+
+  <h2>Objectifs</h2>
+    <div class="uk-margin uk-column-large-1-2 uk-column-small-1-1">
+        
+            <div class="clearfix text-formatted"><p>La Licence Productions agricoles intégrées et enjeux environnementaux conduit à l’acquisition de nouvelles connaissances et compétences en matière de diagnostic, d’analyse et de conseil pour le développement de productions végétales durables, dans un contexte de transition agroécologique.</p>
+
+<p><strong>La formation s’appuie sur une approche systémique et pluridisciplinaire de l'exploitation agricole dans son environnement.</strong></p>
+
+<p>Elle s'inscrit dans une dynamique de renouvellement des pratiques agronomiques (protection et fertilisation raisonnées des cultures, gestion raisonnée de la ressource en eau et utilisation durable des sols), d'adaptation aux exigences qualitatives et environnementales des productions mises en marché (démarches qualité et traçabilité des pratiques) et de conformité de l’activité agricole avec la Loi (gestion pérenne de l’environnement et protection de la santé publique). La formation est fondée sur des approches scientifiques et techniques, d'une part, et des approches juridiques, socio-économiques et de gestion/certification, d'autre part, pour un développement durable des exploitations, en productions végétales.</p>
+
+<p>Les diplômés seront capables de maîtriser les techniques agronomiques, tout en sachant en expliquer les fondements, et les articulations des pratiques agricoles avec l'ensemble des autres paramètres : impacts sur l'environnement, réglementation et cadre juridique, qualité des produits et traçabilité, commercialisation et cahiers des charges… Ils seront à même d’accompagner le monde agricole dans les mutations technico-économiques, sociétales et environnementales en cours. Les métiers visés concernent les secteurs de la production agricole et les services associés, notamment dans les domaines du conseil et de l’audit.</p>
+</div>
+              
+   </div> 
+      <div class="uk-margin-large">
+      <h2 class="small-black">Thèmes</h2>
+      <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-10 uk-hidden-small">
+          <i class="uk-icon-large uk-icon-justify uk-icon-pencil sa-padding sa-background sa-background-bronze-color sa-border-circle-right sa-text-white-color" aria-hidden="true"></i>
+        </div>
+        <div class="uk-width-1-1 uk-width-medium-9-10">            
+                                           
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                 
+                                                                     
+                                                                     
+                                                                     
+                                                                     
+                                 
+                                 
+                                <ul class="uk-margin uk-column-large-1-1 uk-column-small-1-1 sa-text-small sa-li-nomargin">        
+               
+                                                                                                                                                                                                                                                                                                                                                                                          <li>Agronomie, agro-écologie</li>
+                                                            <li>Eau</li>
+                                                            <li>Politiques et territoires</li>
+                                                            <li>Protection des plantes</li>
+                                                                                                                                                                                    </ul>
+              
+        </div>
+      </div>
+    </div>
+      
+      
+       
+ 
+        <div class="uk-margin-large">
+    <ul class="uk-tab sa-no-print" data-uk-tab="{connect:'#sa-ref-tab-content-1'}">
+      <li class="uk-active"><a href="javascript:void(0);">Programme</a></li>
+                        <li><a href="javascript:void(0);">Conditions d&#039;admission</a></li>
+         
+        
+                
+                <li><a href="javascript:void(0);">Débouchés</a></li>
+            </ul>
+    <div class="sa-padding sa-background sa-background-grey-xlight-color sa-border sa-border-grey-light-color sa-border-top-remove">
+      <ul id="sa-ref-tab-content-1" class="uk-switcher">
+        <li>
+          <p class="sa-print sa-text-xlarge">Programme</p>
+                      <p><strong>Nombre de crédits ECTS :</strong> 60</p>
+                                <p><strong>Langues d&#039;enseignement :</strong> en français</p>
+                    
+                      <div class="sa-no-print">
+              <h2 class="small-black sa-padding-top">Téléchargements</h2>
+              <ul class="uk-list uk-list-space">
+                                  <li>
+                    <div class="uk-margin sa-padding sa-background sa-background-white-color">
+                      <a href="/sites/supagro/files/documents/2020/09/10/Plaquette%20LP%20PAIEE%20-%20Septembre%202020.pdf" rel="nofollow" target="_blank" class="sa-text-black-color sa-text-decoration-remove">
+                        <div class="uk-grid uk-flex-middle" data-uk-grid-margin>
+                          <div class="uk-width-1-10 uk-hidden-small">
+                            <i class="uk-icon-small uk-icon-justify uk-icon-download sa-padding-small sa-background sa-background-primary-light-color sa-border-circle sa-text-white-color" aria-hidden="true"></i>
+                          </div>
+                          <div class="uk-width-1-1 uk-width-medium-9-10">
+                            <p class="uk-margin-remove sa-text-large">Plaquette de présentation de la licence professionnelle PAIEE (PDF 700.81 KO)</p>
+                            <p class="uk-margin-remove sa-text-italic sa-text-xsmall">2020</p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </li>
+                              </ul>
+            </div>
+                  </li>
+                          <li>
+            <p class="sa-print sa-text-xlarge">Conditions d&#039;admission</p>
+            
+            <div class="clearfix text-formatted"><p><strong>La formation se fait par la voie de l’alternance uniquement.</strong></p>
+
+<ul><li><strong>En formation professionnelle initiale sous statut apprenti : </strong>étudiants titulaires d'un L2, d'un DUT, d'un BTSA ou d'un BTS dans le secteur de la biologie, l’agronomie et l’environnement. Les étudiants ≤ 30 ans signent un contrat d'apprentissage, ceux ≥ 30 ans signent un contrat de professionnalisation (les 2 se font sous dispositif Alternance ProA).</li>
+	<li><strong>En formation professionnelle continue : </strong>
+	<ul class="sa-li-nomargin"><li><strong>Salariés </strong>des secteurs de la production, du conseil et de l'environnement dans le cadre d'un plan de développement de compétences, d'un Projet de transition professionnelle (PTP), d'un CPF autonome, d’un CPF co-construit, d’un contrat de professionnalisation (dispositif Alternance ProA).</li>
+		<li><strong>Demandeurs d’emplois : </strong>dispositifs de financement Pôle emploi, ForProSup (dans le cadre d'une convention avec le Conseil Régional Occitanie, des places sont réservées aux demandeurs d'emploi), contrat de professionnalisation (dispositif Alternance ProA), d’un CPF autonome.</li>
+		<li><strong>La validation des acquis de l'expérience</strong> et l'organisation de la formation en unités capitalisables permettent de proposer des parcours individualisés, adaptés à chaque situation. La formation peut être étalée sur 3 ans.</li>
+	</ul></li>
+</ul><p class="sa-text-center"><a class="uk-button uk-button-large sa-text-uppercase" href="/formations/catalogue-des-formations/licences-professionnelles/licences-professionnelles">Modalités d'inscription</a></p>
+</div>
+      
+                      </li>
+                  
+           
+          
+            
+          <li>
+            <p class="sa-print sa-text-xlarge">Débouchés</p>
+            
+            <div class="clearfix text-formatted"><p><strong>Les débouchés sont les suivants :</strong></p>
+
+<ul><li>Responsable de vente et de conseil dans l'agrofourniture (technico - commerciaux et techniciens);</li>
+	<li>Cadre technique chargé du conseil sur une zone ou au sein d'un réseau d'agriculteurs;</li>
+	<li>Cadre technique chargé du contrôle et de l'audit ;</li>
+	<li>Chargé de mission dans des institutions et organismes professionnels ou publics ;</li>
+	<li>Responsable de la qualité dans les organismes de collecte ;</li>
+	<li>Responsable technique de services publics gestionnaires d'espaces ;</li>
+	<li>Responsable de la conception et/ou de la mise en œuvre des cahiers des charges et de la réglementation (groupements de producteurs, coopératives, SICA, grande distribution, bureaux d'études ).</li>
+	<li>Créateur d'entreprise dans ces secteurs d'activités</li>
+</ul></div>
+      
+                      </li>
+              </ul>
+    </div>
+  </div>
+  
+ 
+    
+    
+          
+           
+    
+      <div class="uk-margin-large">
+      <div class="uk-grid" data-uk-grid-margin data-uk-grid-match="{target:'.sa-grid-match-layout'}">
+                  <div class="uk-width-medium-1-2">
+            <div class="sa-grid-match-layout sa-border sa-border-contrast-primary-xlight-color sa-border-large">
+              <div class="sa-padding-large">
+               <h2 class="small-black">Responsables pédagogiques</h2>
+              </div>
+              <ul class="uk-list uk-margin-remove">
+                                  <li class="sa-padding-small-vertical">
+                    
+<div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-1-3 uk-width-small-1-4 uk-width-medium-1-3">
+      <figure>
+        <a href="#sa-ref-contact-167" data-uk-modal>
+            <img class="sa-border-circle-right" width="110" height="110" srcset="/sites/supagro/files/styles/max_110x110/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=BwwexAsA 1x, /sites/supagro/files/styles/max_220x220/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=7tyijlWx 2x" src="/sites/supagro/files/styles/max_110x110/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=BwwexAsA" alt="Contact - Marie-Stéphane Tixier" typeof="foaf:Image" />
+
+
+        </a>
+      </figure>
+    </div>
+        
+  <div class="uk-width-2-3 uk-width-small-3-4 uk-width-medium-2-3">
+    <p class="uk-margin-small sa-text-contrast-primary-color sa-text-decoration-remove sa-text-small sa-text-bold">
+      <a href="#sa-ref-contact-167" data-uk-modal><span class="field field--name-title field--type-string field--label-hidden">Marie-Stéphane TIXIER</span>
+</a>
+    </p>
+          <p class="uk-margin-small sa-text-contrast-primary-light-color sa-text-light">Enseignant-chercheur</p>
+              <p class="uk-margin-small uk-text-break sa-text-small">
+        <a href="mailto:marie-stephane.tixier@supagro.fr" class="sa-link-icon-envelope">e-mail</a>
+      </p>
+        <p class="sa-text-decoration-remove sa-text-uppercase">
+      <a href="#sa-ref-contact-167" data-uk-modal>Lire la fiche</a>
+    </p>
+  </div>
+</div>
+
+                                          <div class="sa-padding-horizontal">
+                        <div class="sa-border sa-border-contrast-primary-light-color sa-border-bottom-only"></div>
+                      </div>
+                                        <div id="sa-ref-contact-167" class="uk-modal">
+  <div class="uk-modal-dialog sa-border sa-border-contrast-primary-xlight-color sa-border-xxlarge">
+    <a href="javascript:void(0);" class="uk-modal-close uk-close"></a>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-small-1-3">
+                  <figure>
+              <img class="sa-border-circle-right" width="270" height="270" srcset="/sites/supagro/files/styles/max_270x270/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=DgIFSOI_ 1x, /sites/supagro/files/styles/max_540x540/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=2CT1Ew0N 2x" src="/sites/supagro/files/styles/max_270x270/public/media/2017/12/20/MS-Tixier-contact.jpg?itok=DgIFSOI_" alt="Contact - Marie-Stéphane Tixier" typeof="foaf:Image" />
+
+
+          </figure>
+              </div>
+      <div class="uk-width-small-2-3">
+        <p class="sa-text-contrast-primary-color sa-text-xlarge"><span class="field field--name-title field--type-string field--label-hidden">Marie-Stéphane TIXIER</span>
+</p>
+                  <p class="sa-text-contrast-primary-color sa-text-light">Enseignant-chercheur</p>
+                  <p class="sa-text-contrast-primary-color sa-text-light">Directrice du Département Biologie et Ecologie
+</p>
+        <div class="sa-text-light sa-text-small">         
+          <ul class="uk-list sa-li-nomargin">
+                          <li><i class="uk-margin-small-right uk-icon-caret-right" aria-hidden="true"></i> Département Biologie et Ecologie (BE)</li>
+                                          <li><i class="uk-margin-small-right uk-icon-caret-right" aria-hidden="true"></i> UMR Centre de Biologie et Gestion des Populations (CBGP)</li>
+                                                            <li><i class="uk-margin-small-right uk-icon-caret-right" aria-hidden="true"></i> Montpellier SupAgro (Campus la Gaillarde)</li>
+                                        </ul>
+        </div>
+      </div>
+      <div class="uk-width-small-1-1">
+        <div class="sa-text-small">
+                      <p class="uk-text-break">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-envelope" aria-hidden="true"></i>
+                Email :
+              </span>
+              <a href="mailto:marie-stephane.tixier@supagro.fr">marie-stephane.tixier@supagro.fr</a>
+            </p>
+                                <p class="uk-text-break uk-hidden-touch">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-phone" aria-hidden="true"></i>
+                Téléphone :
+              </span>
+              <span class="sa-text-primary-color">+33 (0)4 99 61 27 90</span>
+            </p>
+            <p class="uk-text-break uk-hidden-notouch">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-phone" aria-hidden="true"></i>
+                Téléphone :
+              </span>
+            <a href="tel:+33499612790">+33 (0)4 99 61 27 90</a>
+            </p>               
+              
+              
+                                          <p class="uk-text-break">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-fax" aria-hidden="true"></i>
+                Fax :
+              </span>
+              <span class="sa-text-primary-color">+33 (0)4 99 61 24 13</span>
+            </p>
+                                <p class="uk-text-break">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-external-link" aria-hidden="true"></i>
+                Sites web :
+              </span>
+              <br/>
+                              <a href="https://www.researchgate.net/profile/Tixier_Marie-Stephane">Profil ResearchGate</a>
+                                          </p>
+                            </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </li>
+                                  <li class="sa-padding-small-vertical">
+                    
+<div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-1-3 uk-width-small-1-4 uk-width-medium-1-3">
+      <figure>
+        <a href="#sa-ref-contact-168" data-uk-modal>
+            <img class="sa-border-circle-right" width="110" height="110" srcset="/sites/supagro/files/styles/max_110x110/public/media/2018/06/21/f-gautier.jpg?itok=gyfnn8CB 1x, /sites/supagro/files/styles/max_220x220/public/media/2018/06/21/f-gautier.jpg?itok=0y6ESMtb 2x" src="/sites/supagro/files/styles/max_110x110/public/media/2018/06/21/f-gautier.jpg?itok=gyfnn8CB" alt="François  GAUTIER-PELISSIER" typeof="foaf:Image" />
+
+
+        </a>
+      </figure>
+    </div>
+        
+  <div class="uk-width-2-3 uk-width-small-3-4 uk-width-medium-2-3">
+    <p class="uk-margin-small sa-text-contrast-primary-color sa-text-decoration-remove sa-text-small sa-text-bold">
+      <a href="#sa-ref-contact-168" data-uk-modal><span class="field field--name-title field--type-string field--label-hidden">François  GAUTIER-PELISSIER</span>
+</a>
+    </p>
+          <p class="uk-margin-small sa-text-contrast-primary-light-color sa-text-light">Ingénieur, Chargé de formation</p>
+              <p class="uk-margin-small uk-text-break sa-text-small">
+        <a href="mailto:francois.gautier@supagro.fr" class="sa-link-icon-envelope">e-mail</a>
+      </p>
+        <p class="sa-text-decoration-remove sa-text-uppercase">
+      <a href="#sa-ref-contact-168" data-uk-modal>Lire la fiche</a>
+    </p>
+  </div>
+</div>
+
+                                        <div id="sa-ref-contact-168" class="uk-modal">
+  <div class="uk-modal-dialog sa-border sa-border-contrast-primary-xlight-color sa-border-xxlarge">
+    <a href="javascript:void(0);" class="uk-modal-close uk-close"></a>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-small-1-3">
+                  <figure>
+              <img class="sa-border-circle-right" width="270" height="270" srcset="/sites/supagro/files/styles/max_270x270/public/media/2018/06/21/f-gautier.jpg?itok=Cs8lztNj 1x, /sites/supagro/files/styles/max_540x540/public/media/2018/06/21/f-gautier.jpg?itok=c2O4Ah5i 2x" src="/sites/supagro/files/styles/max_270x270/public/media/2018/06/21/f-gautier.jpg?itok=Cs8lztNj" alt="François  GAUTIER-PELISSIER" typeof="foaf:Image" />
+
+
+          </figure>
+              </div>
+      <div class="uk-width-small-2-3">
+        <p class="sa-text-contrast-primary-color sa-text-xlarge"><span class="field field--name-title field--type-string field--label-hidden">François  GAUTIER-PELISSIER</span>
+</p>
+                  <p class="sa-text-contrast-primary-color sa-text-light">Ingénieur, Chargé de formation</p>
+                  <p class="sa-text-contrast-primary-color sa-text-light"></p>
+        <div class="sa-text-light sa-text-small">         
+          <ul class="uk-list sa-li-nomargin">
+                          <li><i class="uk-margin-small-right uk-icon-caret-right" aria-hidden="true"></i> Département Biologie et Ecologie (BE)</li>
+                                                                          <li><i class="uk-margin-small-right uk-icon-caret-right" aria-hidden="true"></i> Montpellier SupAgro (Campus la Gaillarde)</li>
+                                        </ul>
+        </div>
+      </div>
+      <div class="uk-width-small-1-1">
+        <div class="sa-text-small">
+                      <p class="uk-text-break">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-envelope" aria-hidden="true"></i>
+                Email :
+              </span>
+              <a href="mailto:francois.gautier@supagro.fr">francois.gautier@supagro.fr</a>
+            </p>
+                                <p class="uk-text-break uk-hidden-touch">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-phone" aria-hidden="true"></i>
+                Téléphone :
+              </span>
+              <span class="sa-text-primary-color">+33 (0)4 99 61 24 97</span>
+            </p>
+            <p class="uk-text-break uk-hidden-notouch">
+              <span class="sa-text-contrast-primary-light-color">
+                <i class="uk-margin-small-right uk-icon-small uk-icon-justify uk-icon-phone" aria-hidden="true"></i>
+                Téléphone :
+              </span>
+            <a href="tel:+33499612497">+33 (0)4 99 61 24 97</a>
+            </p>               
+              
+              
+                                                          </div>
+      </div>
+    </div>
+  </div>
+</div>
+                  </li>
+                              </ul>
+            </div>
+          </div>
+                          <div class="uk-width-medium-1-2">
+            <div class="sa-grid-match-layout sa-border sa-border-contrast-primary-xlight-color sa-border-large">
+              <div class="sa-padding-large">
+                <h2 class="small-black">Partenaires</h2>
+              </div>
+              <div class="sa-padding-small sa-text-small sa-block-partners">
+                
+            <div class="clearfix text-formatted"><p><strong>EPLEFPA Charlemagne de Carcassonne</strong><br />
+Florian Sanchez, Enseignant - <a href="mailto:florian.sanchez@educagri.fr">florian.sanchez@educagri.fr</a></p>
+</div>
+      
+              </div>
+            </div>
+          </div>
+              </div>
+    </div>
+      
+  
+  
+ 
+  </div>
+              </div>
+    </div>
+  </div>
+</div>
+
+                  </div>
+      </div>
+      <div class="op-width-none uk-width-large-1-4 sa-no-print">
+        <div class="uk-grid" data-uk-grid-margin>
+                <div class="uk-width-1-1">
+    <div id="block-arcblockplace-3" class="block block-arc-blocks block-arc-block-place">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-primary-light-color sa-border sa-border-primary-light-color sa-border-large">
+          
+                      <p class="uk-margin-remove sa-padding sa-text-center sa-text-white-color sa-text-xxxxlarge">
+              Lieu
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-border sa-border-grey-xlight-color sa-border-large sa-border-top-remove">
+              <div class="sa-padding">
+    <p class="sa-text-center"><strong>Montpellier SupAgro</strong><br />
+Campus de La Gaillarde<br />
+2 place Pierre Viala<br />
+Montpellier</p>
+
+  </div>
+  <div class="sa-map" data-lat="43.6187" data-lng="3.8555" data-zoom="15" data-icon-url="/themes/custom/supagro/front/images/marker.png"></div>
+  
+        </div>
+      </div>
+    </div>
+  </div>
+     <div class="uk-width-1-1">
+    <div id="block-arcblockregistration" class="block block-arc-blocks block-arc-block-registration">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-primary-light-color sa-border sa-border-primary-light-color sa-border-large">
+          
+                      <p class="uk-margin-remove sa-padding sa-text-center sa-text-white-color sa-text-xxxxlarge">
+              Inscription
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-border sa-border-grey-xlight-color sa-border-large sa-border-top-remove">
+              <div class="sa-padding">
+          <a href="http://www.supagro.fr/candidature/" target="_blank" class="uk-width-1-1 uk-button uk-button-large sa-text-uppercase">Je candidate !</a>
+        
+      </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+           <div class="uk-width-1-1">
+    <div id="block-arcblocktonote" class="block block-arc-blocks block-arc-block-to-note">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-primary-light-color sa-border sa-border-primary-light-color sa-border-large">
+          
+                      <p class="uk-margin-remove sa-padding sa-text-center sa-text-white-color sa-text-xxxxlarge">
+              A noter
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color sa-border sa-border-contrast-primary-xlight-color sa-border-large sa-border-top-remove">
+              <div class="sa-padding">
+    <ul>
+	<li>Formation ouverte en contrat d'apprentissage et en contrat de professionnalisation</li>
+	<li>Approche pluridisciplinaire et systémique de l'exploitation agricole</li>
+	<li>Complémentarité des approches scientifiques et techniques, et des approches juridiques, socio-économiques (dont gestion/certification)</li>
+	<li>Accompagnement des exploitations agricoles et des systèmes de culture dans un contexte de développement durable</li>
+</ul>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+        <div class="uk-width-1-1">
+    <div id="block-arcblockprices" class="block block-arc-blocks block-arc-block-prices">
+      <div class="sa-block">
+        <div class="sa-block-title sa-background sa-background-primary-light-color sa-border sa-border-primary-light-color sa-border-large">
+          
+                      <p class="uk-margin-remove sa-padding sa-text-center sa-text-white-color sa-text-xxxxlarge">
+              Tarifs
+            </p>
+                    
+        </div>
+        <div class="sa-block-content sa-background sa-background-white-color sa-border sa-border-contrast-primary-xlight-color sa-border-large sa-border-top-remove">
+              <div class="sa-padding">
+    <p class="sa-text-uppercase uk-text-bold">•&nbsp;Formation initiale<br />
+(statut apprenti)</p>
+
+<p>92 € de contribution vie étudiante et de campus (CVEC, paiement obligatoire avant la rentrée).</p>
+
+<p class="sa-text-center"><a class="uk-button uk-button-large sa-text-uppercase" data-uk-modal="" href="#cvec">La CVEC en bref</a></p>
+
+<p class="sa-text-uppercase uk-text-bold">•&nbsp;Formation professionnelle continue</p>
+
+<p>Selon la prise en charge par l'opérateur de compétences (OPCO) ou par un financeur (région, entreprise, autre).</p>
+
+<div class="uk-modal" id="cvec">
+<div class="uk-modal-dialog">
+<h1 class="sa-h1-article">La Contribution Vie Etudiante et de Campus en bref</h1>
+
+<p><strong>Si vous êtes en formation initiale (étudiant.e ou apprenti.e) vous devez vous acquitter auprès du CROUS de la Contribution Vie Etudiante et de Campus (CVEC) avant votre inscription administrative à Montpellier SupAgro. </strong></p>
+<p class="sa-text-center"><a class="uk-button uk-button-large sa-text-uppercase sa-text-center" href="https://cvec.etudiant.gouv.fr/" target="_blank">Je m'acquitte de la CVEC !</a></p>
+<div class="sa-video-embed arc-cookie-compliance-video dailymotion_player" width="720" height="450" data-video-url="https://www.dailymotion.com/embed/video/x6mwoy1" videoid="x6mwoy1"></div>
+</div>
+</div>
+
+  </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+                  
+
+        </div>
+      </div>
+    </div>
+    <div class="uk-margin-large"></div>
+  </div>
+</div>
+  <div id="sa-ref-related" class="uk-position-relative sa-background sa-background-grey-xlight-color sa-no-print">
+    <div class="uk-container uk-container-center">
+      <div class="uk-margin"></div>
+      <div class="uk-grid" data-uk-grid-margin>
+          <div class="uk-width-1-1">
+  <div id="block-arcblockrelated" class="block block-arc-blocks block-arc-block-related">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-padding-bottom sa-border sa-border-grey-color sa-border-bottom-only sa-text-bold sa-text-contrast-primary-color sa-text-xxxxlarge">
+            À voir aussi
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+                <ul class="uk-grid" data-uk-grid-margin>
+        
+        <li class="uk-width-small-1-2 uk-width-medium-1-2 uk-width-large-1-4 sa-text-center">
+          
+<figure class="uk-overlay uk-overlay-hover">
+  <a href="/formations/alternance/apprentissage">
+      <img class="uk-overlay-spin" width="270" height="210" srcset="/sites/supagro/files/styles/max_270x210/public/media/2017/05/19/Apprentissage.jpg?itok=MlJIVgMJ 1x, /sites/supagro/files/styles/max_540x420/public/media/2017/05/19/Apprentissage.jpg?itok=Hd3Z-3Ic 2x" src="/sites/supagro/files/styles/max_270x210/public/media/2017/05/19/Apprentissage.jpg?itok=MlJIVgMJ" alt="Apprentissage" typeof="foaf:Image" />
+
+
+    <div class="uk-overlay-panel uk-overlay-background uk-overlay-bottom uk-ignore sa-text-left">
+      <p class="sa-text-large">Contrat d&#039;apprentissage</p>
+    </div>
+  </a>
+</figure>
+  <span property="schema:name" content="Contrat d&#039;apprentissage" class="rdf-meta hidden"></span>
+    
+
+        </li>
+        
+        <li class="uk-width-small-1-2 uk-width-medium-1-2 uk-width-large-1-4 sa-text-center">
+          
+<figure class="uk-overlay uk-overlay-hover">
+  <a href="/formations/formation-professionnelle-continue/validation-des-acquis-de-lexperience-vae">
+      <img class="uk-overlay-spin" width="270" height="210" srcset="/sites/supagro/files/styles/max_270x210/public/media/2019/02/26/vae-lien.jpg?itok=KWTG2c6r 1x, /sites/supagro/files/styles/max_540x420/public/media/2019/02/26/vae-lien.jpg?itok=3J-R1jdo 2x" src="/sites/supagro/files/styles/max_270x210/public/media/2019/02/26/vae-lien.jpg?itok=KWTG2c6r" alt="VAE - validation des acquis" typeof="foaf:Image" />
+
+
+    <div class="uk-overlay-panel uk-overlay-background uk-overlay-bottom uk-ignore sa-text-left">
+      <p class="sa-text-large">La validation des acquis (VAE)</p>
+    </div>
+  </a>
+</figure>
+  <span property="schema:name" content="Validation des acquis de l&#039;expérience (VAE)" class="rdf-meta hidden"></span>
+    
+
+        </li>
+        
+        <li class="uk-width-small-1-2 uk-width-medium-1-2 uk-width-large-1-4 sa-text-center">
+          
+<figure class="uk-overlay uk-overlay-hover">
+  <a href="/formations/catalogue-des-formations/licences-professionnelles/licences-professionnelles">
+      <img class="uk-overlay-spin" width="270" height="210" srcset="/sites/supagro/files/styles/max_270x210/public/media/2017/05/19/Licences-professionnelles.jpg?itok=8UJGuvhL 1x, /sites/supagro/files/styles/max_540x420/public/media/2017/05/19/Licences-professionnelles.jpg?itok=LLDwofvZ 2x" src="/sites/supagro/files/styles/max_270x210/public/media/2017/05/19/Licences-professionnelles.jpg?itok=8UJGuvhL" alt="Licences Professionnelles, groupe d&#039;étudiants en sortie" typeof="foaf:Image" />
+
+
+    <div class="uk-overlay-panel uk-overlay-background uk-overlay-bottom uk-ignore sa-text-left">
+      <p class="sa-text-large">Licences - Modalités d&#039;inscription</p>
+    </div>
+  </a>
+</figure>
+  <span property="schema:name" content="Licences professionnelles" class="rdf-meta hidden"></span>
+    
+
+        </li>
+        
+        <li class="uk-width-small-1-2 uk-width-medium-1-2 uk-width-large-1-4 sa-text-center">
+          
+<figure class="uk-overlay uk-overlay-hover">
+  <a href="/vie-etudiante/lieu-de-vie/hebergement/hebergement">
+      <img class="uk-overlay-spin" width="270" height="210" srcset="/sites/supagro/files/styles/max_270x210/public/media/2017/05/11/Hameaux.jpg?itok=jxCfCl7q 1x, /sites/supagro/files/styles/max_540x420/public/media/2017/05/11/Hameaux.jpg?itok=op7Yd4go 2x" src="/sites/supagro/files/styles/max_270x210/public/media/2017/05/11/Hameaux.jpg?itok=jxCfCl7q" alt="Les Hameaux : 334 studios dont 15 logements accessibles aux personnes à mobilité réduite" typeof="foaf:Image" />
+
+
+    <div class="uk-overlay-panel uk-overlay-background uk-overlay-bottom uk-ignore sa-text-left">
+      <p class="sa-text-large">Hébergement à Montpellier (Campus La Gaillarde)</p>
+    </div>
+  </a>
+</figure>
+  <span property="schema:name" content="Hébergement " class="rdf-meta hidden"></span>
+    
+
+        </li>
+          </ul>
+    
+   
+      </div>
+    </div>
+  </div>
+</div>
+
+
+      </div>
+      <div class="uk-margin"></div>
+    </div>
+  </div>
+<div id="sa-ref-bottom" class="uk-position-relative sa-no-print">
+  <div class="uk-container uk-container-center">
+    <div class="uk-margin"></div>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-large-1-4">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-sitebranding" class="block block-system block-system-branding-block">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+              <figure>
+      <a href="/">
+        <img src="/themes/custom/supagro/logo.png" alt="L&#039;Institut Agro | Montpellier SupAgro" width="230" height="108"/>
+      </a>
+    </figure>
+          </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-large-1-4">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-adresse" class="block block-block-content block-block-content068455b9-b3f5-4470-a65d-ae031b961035">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+           <p><strong>L'institut Agro | Montpellier SupAgro</strong><br />
+2 place Pierre Viala<br />
+34060 Montpellier - France<br /><span class="uk-hidden-touch">Tél. : +33 (0)4 99 61 22 00</span> <span class="uk-hidden-notouch">Tél. : <a href="tel:+33499612200" title="Appelez-nous">+33 (0)4 99 61 22 00</a></span><br />
+Fax : +33 (0)4 99 61 29 00<br /><a href="mailto:contact@supagro.fr">contact@supagro.fr</a></p>
+
+      
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-large-1-4">
+        <div class="uk-grid" data-uk-grid-margin>
+          
+        </div>
+      </div>
+      <div class="uk-width-large-1-4">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-reseauxsociaux" class="block block-block-content block-block-content13c3e77e-6343-4890-b955-6a8a292c4bef">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-text-center">
+            Suivez-nous
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+        <div class="sa-text-center">
+            <ul class="uk-margin-remove sa-list-line">
+    
+   
+             <li>
+  <a href="http://www.facebook.com/montpellier.supagro" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-facebook">
+    <span class="sa-text-readable">Facebook</span>
+  </a>
+</li>  
+             <li>
+  <a href="http://twitter.com/supagro" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-twitter">
+    <span class="sa-text-readable">Twitter</span>
+  </a>
+</li>  
+             <li>
+  <a href="https://www.linkedin.com/company/544687?trk=edu-cp-sa-cname" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-linkedin">
+    <span class="sa-text-readable">Voir la page Linkedin</span>
+  </a>
+</li>  
+             <li>
+  <a href="https://www.youtube.com/channel/UCOuRodr0Wh-qTfTqxtbiASw" target="_blank" class="uk-icon-hover uk-icon-medium uk-icon-youtube-play">
+    <span class="sa-text-readable">Voir la chaîne YouTube</span>
+  </a>
+</li>  
+             <li>
+  <a href="http://www.dailymotion.com/montpelliersupagro" target="_blank" class="uk-icon-hover uk-icon-medium sa-custom-icon-dailymotion">
+    <span class="sa-text-readable">Voir la page Dailymotion</span>
+  </a>
+</li>  
+        
+  </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="uk-margin-large"></div>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-medium-1-4 sa-block-logos">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-souslatutellede" class="block block-block-content block-block-content8af2217e-3a5a-4269-b329-38498266f025">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-text-center">
+            Sous la tutelle de :
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="uk-grid sa-text-center" data-uk-grid-margin>
+    
+   
+             <figure class="uk-width-1-2">
+      <img width="100" height="130" srcset="/sites/supagro/files/styles/max_100x130/public/media/2020/10/16/bloc-marianne-rf.jpg?itok=GCEhjZD1 1x, /sites/supagro/files/styles/max_200x260/public/media/2020/10/16/bloc-marianne-rf.jpg?itok=8lT2ETM4 2x" src="/sites/supagro/files/styles/max_100x130/public/media/2020/10/16/bloc-marianne-rf.jpg?itok=GCEhjZD1" alt="Bloc Marianne - République Française" typeof="foaf:Image" />
+
+
+    
+</figure>
+        
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-medium-1-4 sa-block-logos">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-membrede" class="block block-block-content block-block-content53f91dd8-5b38-452d-b856-c101287243b7">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-text-center">
+            Membre de :
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="uk-grid sa-text-center" data-uk-grid-margin>
+    
+   
+             <figure class="uk-width-1-2">
+    
+  <a href="http://www.cge.asso.fr/" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2019/02/11/logo-cge.jpg?itok=Z_d2uFUN 1x, /sites/supagro/files/styles/max_300x140/public/media/2019/02/11/logo-cge.jpg?itok=eLuo23YK 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2019/02/11/logo-cge.jpg?itok=Z_d2uFUN" alt="Conférence des grandes écoles" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="https://muse.edu.umontpellier.fr/" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2017/11/07/Logo_MUSE_Original.jpg?itok=sJXGkoRO 1x, /sites/supagro/files/styles/max_300x140/public/media/2017/11/07/Logo_MUSE_Original.jpg?itok=s9KNbXW3 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2017/11/07/Logo_MUSE_Original.jpg?itok=sJXGkoRO" alt="Montpellier Université d’excellence (MUSE)" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+        
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-medium-1-4 sa-block-logos">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-fondateurde" class="block block-block-content block-block-content6edc9d3b-2508-4923-bb8b-eb82c1f8b622">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-text-center">
+            Fondateur de :
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="uk-grid sa-text-center" data-uk-grid-margin>
+    
+   
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.agreenium.fr/" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2021/05/31/logo-agreenium.jpg?itok=gwsFT9Ia 1x, /sites/supagro/files/styles/max_300x140/public/media/2021/05/31/logo-agreenium.jpg?itok=y-zF8P2f 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2021/05/31/logo-agreenium.jpg?itok=gwsFT9Ia" alt="Agreenium" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="http://www.agropolis.fr" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2021/02/16/logo-agropolis-fr-large.png?itok=tr894SfU 1x, /sites/supagro/files/styles/max_300x140/public/media/2021/02/16/logo-agropolis-fr-large.png?itok=yD33wIFt 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2021/02/16/logo-agropolis-fr-large.png?itok=tr894SfU" alt="Agropolis International" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="http://www.agropolis-fondation.fr" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2016/12/07/logotype-other-7%402x.jpg?itok=p3D44NYe 1x, /sites/supagro/files/styles/max_300x140/public/media/2016/12/07/logotype-other-7%402x.jpg?itok=bSJp7lC9 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2016/12/07/logotype-other-7%402x.jpg?itok=p3D44NYe" alt="Agropolis Fondation" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.chaireunesco-adm.com" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2017/09/12/chaire-unesco-fr.jpg?itok=qGD-d4uY 1x, /sites/supagro/files/styles/max_300x140/public/media/2017/09/12/chaire-unesco-fr.jpg?itok=wjLGlnO6 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2017/09/12/chaire-unesco-fr.jpg?itok=qGD-d4uY" alt="CHAIRE-UNESCO Alimentations du monde" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+        
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+     <div class="uk-width-medium-1-4 sa-block-logos">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-certifielabellise-2" class="block block-block-content block-block-content610d7e97-d92b-427f-aa2d-8213130c4a66">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                  <p class="sa-text-center">
+            Certifié &amp; labellisé :
+          </p>
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="uk-grid sa-text-center" data-uk-grid-margin>
+    
+   
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.cti-commission.fr/" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/certificatoin-cti.jpg?itok=PpdgvxDt 1x, /sites/supagro/files/styles/max_300x140/public/media/2018/09/18/certificatoin-cti.jpg?itok=vzJqPQvs 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/certificatoin-cti.jpg?itok=PpdgvxDt" alt="CTI" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.cti-commission.fr/la-cti/demarche-qualite/systeme-qe/eur-ace" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/frontpage-label-eurace.jpg?itok=vBlhZR4A 1x, /sites/supagro/files/styles/max_300x140/public/media/2018/09/18/frontpage-label-eurace.jpg?itok=NCySrogA 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/frontpage-label-eurace.jpg?itok=vBlhZR4A" alt="EURACE" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.montpellier-supagro.fr/international/venir-etudier-montpellier-supagro/langues" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/frontpage-label-fle.jpg?itok=0DBBfIne 1x, /sites/supagro/files/styles/max_300x140/public/media/2018/09/18/frontpage-label-fle.jpg?itok=y4Lo9Lx4 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2018/09/18/frontpage-label-fle.jpg?itok=0DBBfIne" alt="Qualité FLE" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+             <figure class="uk-width-1-2">
+    
+  <a href="https://www.campusfrance.org/fr/le-label-bienvenue-en-france" target="_blank">
+      <img width="150" height="70" srcset="/sites/supagro/files/styles/max_150x70/public/media/2021/06/07/bienvenue-en-france-logo-footer.jpg?itok=Z9Sg01Js 1x, /sites/supagro/files/styles/max_300x140/public/media/2021/06/07/bienvenue-en-france-logo-footer.jpg?itok=l-TlJ6ga 2x" src="/sites/supagro/files/styles/max_150x70/public/media/2021/06/07/bienvenue-en-france-logo-footer.jpg?itok=Z9Sg01Js" alt="Bienvenue en France ! - Campus France" typeof="foaf:Image" />
+
+
+  </a>
+    
+</figure>
+        
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>    
+    </div>
+    <div class="uk-margin"></div>
+  </div>
+</div><div id="sa-ref-footer" class="uk-position-relative uk-contrast sa-no-print sa-text-small">
+  <footer class="uk-container uk-container-center">
+    <div class="uk-margin"></div>
+    <div class="uk-grid" data-uk-grid-margin>
+      <div class="uk-width-large-1-3 uk-hidden-small uk-hidden-medium">
+        <div class="uk-grid" data-uk-grid-margin>
+              <div class="uk-width-1-1 uk-hidden-small uk-hidden-medium">
+    <div id="block-footervousetes" class="block block-block-content block-block-contentd49ae45a-2dc2-4c27-a811-beea246765ec">
+      <div class="sa-block">
+        <div class="sa-block-title"></div>
+        <div class="sa-block-content">
+          <div id="sa-ref-select-profile-footer" class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{justify:'#sa-ref-select-profile-footer', mode:'click', pos:'top-left'}">
+            
+                          <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Vous êtes</button>
+                        
+            <div class="uk-dropdown">
+              <ul class="uk-nav uk-nav-dropdown">
+                                  <li>
+                    <a href="/etudiant" class="sa-text-silver-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-lesson" aria-hidden="true"></i>
+                      Etudiant·e
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/etudiant-international" class="sa-text-orange-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-world" aria-hidden="true"></i>
+                      Etudiant·e international·e
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/apprenti" class="sa-text-brown-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-tree" aria-hidden="true"></i>
+                      Apprenti·e
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/diplome" class="sa-text-red-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-student" aria-hidden="true"></i>
+                      Diplômé·e
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/entreprise-professionnel" class="sa-text-green-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-worker" aria-hidden="true"></i>
+                      Entreprise / professionnel
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/partenaire-scientifique" class="sa-text-purple-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microscope" aria-hidden="true"></i>
+                      Partenaire scientifique
+                    </a>
+                  </li>     
+                                  <li>
+                    <a href="/media" class="sa-text-blue-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microphone" aria-hidden="true"></i>
+                      Média
+                    </a>
+                  </li>     
+                 
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  
+
+        </div>
+      </div>
+      <div class="uk-width-large-1-3 uk-hidden-small uk-hidden-medium">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-footeractualites" class="block block-block-content block-block-contenta938d74f-d656-4e72-99e9-8a66a4085f34">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+   
+             <a href="/actualites" target="" rel="" class="uk-width-1-1 uk-button uk-button-large">Actualités</a>
+        
+      </div>
+    </div>
+  </div>
+</div><div class="uk-width-1-1">
+  <div id="block-boutonagenda" class="block block-block-content block-block-content3869216f-fa3f-45fe-8742-ba35b54428b9">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+   
+             <a href="/agenda" target="" rel="" class="uk-width-1-1 uk-button uk-button-large">Agenda</a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+      <div class="uk-width-large-1-3">
+        <div class="uk-grid" data-uk-grid-margin>
+            <div class="uk-width-1-1">
+  <div id="block-boutoncontact" class="block block-block-content block-block-content8bbe3438-bcb8-4fd0-a033-ee9cbf57f3f4">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+   
+             <a href="/contact" class="uk-width-1-1 uk-button uk-button-large sa-button-primary-color">Nous contacter</a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    <div class="uk-margin-large"></div>
+    <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-1">
+  <div id="block-supagro-footer" class="block block-system block-system-menu-blockfooter">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+    
+          <div class="sa-text-center">
+        <ul class="uk-margin-remove sa-list-line sa-list-line-large">
+                      <li>
+              <a href="/plan-acces">
+                <span class="sa-text-xsmall">Plans d&#039;accès</span>
+              </a>
+                          </li>
+                      <li>
+              <a href="/mentions-legales">
+                <span class="sa-text-xsmall">Mentions légales</span>
+              </a>
+                          </li>
+                      <li>
+              <a href="/sitemap">
+                <span class="sa-text-xsmall">Plan du site</span>
+              </a>
+                          </li>
+                      <li>
+              <a href="#cookie_compliance">
+                <span class="sa-text-xsmall">Gestion des cookies</span>
+              </a>
+                          </li>
+                  </ul>
+      </div>
+
+    
+  
+
+
+      </div>
+    </div>
+  </div>
+</div><div class="uk-width-1-1">
+  <div id="block-copyright" class="block block-block-content block-block-content82d0264a-96a8-46a1-a257-751e0040c39c">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          <div class="sa-text-center">
+    
+           <p class="sa-text-center sa-text-xsmall">Copyright © L'institut Agro | Montpellier SupAgro 2021</p>
+
+      
+  </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div>
+    <div class="uk-margin"></div>
+  </footer>
+</div><div id="sa-ref-offcanvas" class="uk-offcanvas sa-no-print">
+  <div class="uk-contrast uk-offcanvas-bar">
+    <div class="uk-grid uk-flex-middle" data-uk-grid-margin>
+      <div class="uk-width-1-2">
+        
+      </div>
+      <div class="uk-width-1-2">
+        
+      </div>
+    </div>
+      <div class="uk-panel">
+  <div id="block-navigationprincipale-2" class="block block-system block-system-menu-blockmain">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+    
+          <ul class="uk-nav-offcanvas uk-nav uk-nav-parent-icon" data-uk-nav>
+                              <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">Une grande école</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Présentation
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/montpellier-supagro">Une école de l&#039;institut Agro</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/bilan-social">Bilan social</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/la-demarche-qualite-montpellier-supagro">Démarche qualité</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/developpement-durable">Développement durable</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/membres-partenaires">Membres &amp; partenaires</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/implantation-geographique">Implantation géographique</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/presentation/historique-dune-grande-ecole">Historique</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Organisation et gouvernance
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/equipe-de-direction-de-montpellier-supagro">Organigramme général &amp; équipe de direction</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/gouvernance-et-conseils">Conseils et commissions</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/les-departements">Départements de formation et de recherche</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/organisation-et-gouvernance/instituts-de-montpellier-supagro">Instituts</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/domaines-experimentaux">Domaines expérimentaux</a>
+                      </li>
+                              <li>
+                      <a href="http://www.supagro-alumni.fr/">SupAgro Alumni</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation">SupAgro Fondation</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Thématiques emblématiques
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/institut-hautes-etudes-vigne-vin-ihev">Vigne et vin</a>
+                      </li>
+                              <li>
+                      <a href="/institut-des-regions-chaudes-irc">Développement durable au Sud</a>
+                      </li>
+                              <li>
+                      <a href="/institut-florac">Appui à l&#039;enseignement agricole</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/alimentation-durable">Alimentation durable</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/agro-ecologie">Agroécologie</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/agriculture-numerique">Agriculture numérique</a>
+                      </li>
+                              <li>
+                      <a href="/une-grande-ecole/thematiques-emblematiques/innovation-entreprenariat">Innovation et entrepreunariat</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                                        <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">Formations</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li class="uk-parent">
+                                    <a href="/formations/catalogue-des-formations">
+                <span class="sa-text-uppercase">Catalogue des formations</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation">Recherche d&#039;une formation</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/bpa-berger-transhumant">Brevet Professionnel Agricole</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/licences-professionnelles">Licences professionnelles</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/ingenieurs">Ingénieurs</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/masters">Masters</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/masteres-specialises">Mastères spécialisés®</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/la-these-de-doctorat">Doctorat</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-national-doenologue-dno">Diplôme national d&#039;œnologue</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-detudes-specialisees-en">Diplôme d&#039;études spécialisées en management de la vigne et du vin</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-etudes-specialisees-agronomie">Diplôme d’Études Spécialisées en Agronomie</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/diplome-etudiant-entrepreneur-d2e">Diplôme Etudiant Entrepreneur</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li>
+                                    <a href="/formations/le-projet-detudiants-ingenieurs">
+                <span class="sa-text-uppercase">Professionnalisation des étudiants</span>
+              </a>
+                                  </li>
+                              <li class="uk-parent">
+                                    <a href="/formations/alternance">
+                <span class="sa-text-uppercase">Licences, masters, ingénieurs en alternance</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/alternance/apprentissage">Contrat d&#039;apprentissage</a>
+                      </li>
+                              <li>
+                      <a href="/formations/alternance/professionnalisation">Contrat de professionnalisation</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <a href="/formations/se-former-tout-au-long-de-la-vie">
+                <span class="sa-text-uppercase">Formation professionnelle continue</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/se-former-tout-au-long-de-la-vie">Financement</a>
+                      </li>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation?f%5B0%5D=public%3A32">Recherche d&#039;une formation continue diplômante</a>
+                      </li>
+                              <li>
+                      <a href="/formations/formation-tout-au-long-de-la-vie/recherche-d-une-formation-continue">Recherche d&#039;une formation continue courte</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li>
+                                    <a href="/formations/presentation-du-dispositif-national-dappui">
+                <span class="sa-text-uppercase">Appui à l&#039;enseignement technique agricole</span>
+              </a>
+                                  </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Financement des études
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/financement-des-etudes/bourses-pour-les-formations-et-la-recherche">Bourse à destination des étudiants étrangers</a>
+                      </li>
+                              <li>
+                      <a href="/formations/financement-des-etudes/fonds-daction-sociale">Fonds d’Action Sociale</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                                        <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">Vie étudiante</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Campus dynamiques
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/vie-associative">Vie associative</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/le-sport-montpellier-supagro">Activités sportives</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/campus-dynamiques/accessibilite-et-handicap">Accessibilité et handicap</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <a href="/vie-etudiante/restauration">
+                <span class="sa-text-uppercase">Lieu de vie</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/vie-etudiante/lieu-de-vie/hebergement">Hébergement</a>
+                      </li>
+                              <li>
+                      <a href="/vie-etudiante/restauration">Restauration</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                                        <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">Recherche</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li class="uk-parent">
+                                    <a href="/recherche/politique-scientifique/politique-scientifique">
+                <span class="sa-text-uppercase">Politique scientifique</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/recherche/politique-scientifique/politique-scientifique">Un continuum formation, recherche et innovation</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/politique-scientifique/open-access-archives-ouvertes">Open access - Archives ouvertes</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche">Unités de recherche (UMR...)</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Dispositifs de recherche et expérimentaux
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/domaines-experimentaux">Domaines expérimentaux</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/plateformes-et-halles-technologiques">Plateformes et halles technologiques</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/dispositifs-de-recherche-et-experimentaux/vignoble-pedagogique-pierre-galet">Vignoble expérimental et pédagogique</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Le doctorat à Montpellier SupAgro
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/catalogue-des-formations/recherche-d-une-formation/la-these-de-doctorat">Thèse de doctorat</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/les-ecoles-doctorales">Êcoles doctorales</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/comment-sinscrire-en-these">Comment s&#039;inscrire ?</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/le-doctorat-montpellier-supagro/cotutelle-de-these">Cotutelle de thèse</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <a href="/recherche/organisation-devenement-scientifique">
+                <span class="sa-text-uppercase">Organisation d&#039;événement scientifique</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/recherche/organisation-evenement-scientifique">À Montpellier</a>
+                      </li>
+                              <li>
+                      <a href="/recherche/organisation-devenement-scientifique/florac">À Florac</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                                        <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">Innovations, expertises &amp; partenariats</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li class="uk-parent">
+                                    <a href="/lien-aux-entreprises">
+                <span class="sa-text-uppercase">Lien aux entreprises</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/formations/se-former-tout-au-long-de-la-vie">Formation professionnelle continue</a>
+                      </li>
+                              <li>
+                      <a href="/forummetiers">Forum des métiers</a>
+                      </li>
+                              <li>
+                      <a href="/stages">Recrutement &amp; stages</a>
+                      </li>
+                              <li>
+                      <a href="/formations/le-projet-detudiants-ingenieurs">Commande d&#039;un projet mené par des étudiants ingénieurs</a>
+                      </li>
+                              <li>
+                      <a href="/taxe">Versement de la taxe d&#039;apprentissage</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/proximite-vers-les-entreprises/supagro-fondation">SupAgro Fondation</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Innovations &amp; Entrepreunariat
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/agro-valo-mediterranee-0">Transfert &amp; innovation - Agro Valo Méditerranée</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/agro-valo-mediterranee">Incubateur d’entreprises innovantes - Agro Valo Méditerranée</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/innovations-entrepreunariat/cappo-sud-porteurs-de-projets-au">Création d&#039;entreprises au sud - Capp&#039;O Sud</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Expertises
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-service-defis">Au Sud - le service DEFIS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/capeye-loeil-sur-la-pac">Cellule de veille et de formation sur la Politique Agricole Commune - CAPeye</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/la-junior-etude-de-montpellier-supagro-jema">Conseil en ingénierie - JEMA</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-reseau-international-far">Formation agricole et rurale au Sud - Réseau FAR</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/agrotic-services">TIC pour agriculture &amp; environnement - AgroTIC Services</a>
+                      </li>
+                              <li>
+                      <a href="/institut-hautes-etudes-vigne-vin-ihev">Vigne et vin</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Chaires
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-partenariale">Ingénierie pour des agrosystèmes durables - AgroSYS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-agrotic">Agriculture numérique - AgroTIC</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-unesco">Alimentations du Monde - Chaire UNESCO</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/chaires-dentreprises-et-industrielles/chaire-elsa-pact">Evaluation de la durabilité du cycle de vie - ELSA-PACT</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                                        <li class="uk-parent">
+              <a href="#">
+                <span class="sa-text-large sa-text-uppercase">International</span>
+              </a>
+                  
+          <ul class="uk-nav-sub">
+                              <li>
+                                    <a href="/international/la-strategie-linternational">
+                <span class="sa-text-uppercase">Stratégie à l&#039;international</span>
+              </a>
+                                  </li>
+                              <li class="uk-parent">
+                                    <a href="/innovations-expertises-partenariats/expertises/le-service-defis">
+                <span class="sa-text-uppercase">Coopération et partenariats internationaux</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-service-defis">Le service DEFIS</a>
+                      </li>
+                              <li>
+                      <a href="/innovations-expertises-partenariats/expertises/le-reseau-international-far">Le réseau international Formation Agricole et Rurale (FAR)</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <span class="uk-display-block uk-nav-header sa-text-regular sa-text-uppercase">
+                Venir se former à Montpellier SupAgro
+              </span>
+                                          
+          <ul>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/venir-en-mobilite-diplomante">Formation diplômante</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-se-former-montpellier-supagro/etudes-en-france">Études en France - Procédure Campus France</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/venir-en-echange-academique">Programme d&#039;échange &amp; stage</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-se-former-montpellier-supagro/junior-research-lab-at">Junior Research Lab pour les transitions vers la durabilité en Agriculture</a>
+                      </li>
+                              <li>
+                      <a href="/formations/financement-des-etudes/bourses-pour-les-formations-et-la-recherche">Bourses</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/langues">Langues</a>
+                      </li>
+                              <li>
+                      <a href="/international/venir-etudier-montpellier-supagro/votre-service/preparer-votre-arrivee-montpellier">De la préparation de votre arrivée à votre accueil</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+                              <li class="uk-parent">
+                                    <a href="/international/developper-ses-competences-linternational">
+                <span class="sa-text-uppercase">Partir se former à l’international</span>
+              </a>
+                                          
+          <ul>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/partir-en-mobilite-academique">Mobilité académique</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/doubles-diplomes">Doubles diplômes</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/financer-votre-mobilite-academique">Financer votre mobilité académique</a>
+                      </li>
+                              <li>
+                      <a href="/international/developper-ses-competences-linternational/financer-votre-stage">Financer votre stage à l&#039;international</a>
+                      </li>
+              </ul>
+    
+  
+                      </li>
+              </ul>
+
+    
+  
+            </li>
+                        </ul>
+
+    
+  
+
+
+      </div>
+    </div>
+  </div>
+</div><div class="uk-panel">
+  <div id="block-boutonactualitesmobile" class="block block-block-content block-block-contente637f06e-0eb0-4b29-baa7-b61e3c632980">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+          
+   
+             <a href="/actualites" target="" rel="" class="uk-width-1-1 uk-button uk-button-large">Actualités</a>
+        
+      </div>
+    </div>
+  </div>
+</div>  <div class="uk-panel">
+    <div id="block-vousetesmobile" class="block block-block-content block-block-contentad46cf37-ae4f-49b8-a799-eaa480e41bb9">
+      <div class="sa-block">
+        <div class="sa-block-title"></div>
+        <div class="sa-block-content">
+          <div id="sa-ref-select-profile-nav-mobile" class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{justify:'#sa-ref-select-profile-nav-mobile', mode:'click'}">
+            
+                          <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Vous êtes</button>
+                        
+            <div class="uk-dropdown">
+              <ul class="uk-nav uk-nav-dropdown">
+                                  <li>
+                    <a href="/etudiant" class="sa-text-silver-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-lesson" aria-hidden="true"></i>
+                      Etudiant·e
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/etudiant-international" class="sa-text-orange-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-world" aria-hidden="true"></i>
+                      Etudiant·e international·e
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/apprenti" class="sa-text-brown-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-tree" aria-hidden="true"></i>
+                      Apprenti·e
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/diplome" class="sa-text-red-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-student" aria-hidden="true"></i>
+                      Diplômé·e
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/entreprise-professionnel" class="sa-text-green-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-worker" aria-hidden="true"></i>
+                      Entreprise / professionnel
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/partenaire-scientifique" class="sa-text-purple-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microscope" aria-hidden="true"></i>
+                      Partenaire scientifique
+                    </a>
+                  </li> 
+                                  <li>
+                    <a href="/media" class="sa-text-blue-color-important">
+                      <i class="uk-margin-right uk-icon-medium uk-icon-justify sa-custom-icon-microphone" aria-hidden="true"></i>
+                      Média
+                    </a>
+                  </li> 
+                 
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  <div class="uk-panel">
+    <div id="block-ressources-2" class="block block-system block-system-menu-blockresources">
+      <div class="sa-block">
+        
+        <div class="sa-block-title"></div>
+        
+        <div id="sa-ref-select-resource-nav-mobile" class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{justify:'#sa-ref-select-resource-nav-mobile', mode:'click'}">
+                      <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Ressources</button>
+                    <div class="uk-dropdown">
+                          
+    
+          <ul class="uk-nav uk-nav-dropdown">
+                  <li>
+            <a href="/centres-ressources-et-documentation">
+              Centres de ressources et de documentation
+            </a>
+          </li>
+                  <li>
+            <a href="/conferences-culturesciences">
+              Conférences CultureSciences
+            </a>
+          </li>
+                  <li>
+            <a href="/journee-scientifique-vigne-vin-jsvv">
+              Journée Scientifique Vigne-Vin (JSVV)
+            </a>
+          </li>
+                  <li>
+            <a href="/journee-des-innovations-pour-une-alimentation-durable-jipad">
+               Journée des innovations pour une alimentation durable - JIPAD
+            </a>
+          </li>
+                  <li>
+            <a href="http://www.supagro.fr/web/services/on-parle-de-nous/">
+              On parle de L&#039;institut Agro et de Montpellier SupAgro
+            </a>
+          </li>
+              </ul>
+
+    
+  
+
+
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+  <div class="uk-panel">
+    <div id="block-accesdirect-2" class="block block-system block-system-menu-blockdirect-access">
+      <div class="sa-block">
+        
+        <div class="sa-block-title"></div>
+        
+        <div id="sa-ref-select-access-nav-mobile" class="uk-width-1-1 uk-button-dropdown sa-button-dropdown-caret" data-uk-dropdown="{justify:'#sa-ref-select-access-nav-mobile', mode:'click'}">
+                      <button type="button" class="uk-width-1-1 uk-button sa-button-square sa-text-left">Accès direct</button>
+                    <div class="uk-dropdown">
+                          
+    
+          <ul class="uk-nav uk-nav-dropdown">
+                  <li>
+            <a href="/espace-presse">
+              Espace presse
+            </a>
+          </li>
+                  <li>
+            <a href="/recherche/organisation-devenement-scientifique">
+              Organisation d&#039;événements
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/web/services/offre-stage/">
+              Dépôt d&#039;offres stages &amp; alternance
+            </a>
+          </li>
+                  <li>
+            <a href="/recrutement-des-personnels">
+              Recrutement des personnels
+            </a>
+          </li>
+                  <li>
+            <a href="/les-marches-publics">
+              Marchés publics
+            </a>
+          </li>
+                  <li>
+            <a href="/plan-acces">
+              Plans d&#039;accès
+            </a>
+          </li>
+                  <li>
+            <a href="/contact">
+              Contact
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/web/intranet/">
+              Intranet
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.institut-agro.fr">
+              L&#039;institut Agro
+            </a>
+          </li>
+                  <li>
+            <a href="https://projet.institut-agro.fr/">
+              Plateforme &quot;Projet de l&#039;institut Agro&quot;
+            </a>
+          </li>
+                  <li>
+            <a href="http://www.supagro.fr/web/en/">
+              English version
+            </a>
+          </li>
+                  <li>
+            <a href="https://supagro-alumni.hivebrite.com/">
+              Montpellier SupAgro Alumni
+            </a>
+          </li>
+                  <li>
+            <a href="https://www.supagro.fr/fondation/">
+              SupAgro Fondation
+            </a>
+          </li>
+              </ul>
+
+    
+  
+
+
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div> 
+
+
+      <div class="uk-panel">
+  <div id="block-liensexternesmobile" class="block block-block-content block-block-content3c11b8f7-5d29-4a41-8ca3-9f0717ecfefa">
+    <div class="sa-block">
+      <div class="sa-block-title">
+        
+                
+      </div>
+      <div class="sa-block-content">
+        <div class="sa-text-center">
+          <div class="sa-list-website">
+                          
+   
+             <a href="http://www.supagro.fr/fondation" target="_blank">SupAgro Fondation</a>
+             <a href="http://www.supagro-alumni.fr/" target="_blank">SupAgro Alumni</a>
+        
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+</div><div id="sa-ref-ga-property" data-id="UA-114565091-1"></div>
+<div id="sa-ref-piwik-property" data-url="" data-id=""></div>
+  </div>
+
+    
+    <script src="/sites/supagro/files/js/js_y_FV-QIR8NpoB0nbpg-E46Qi9fDkKNTyzY-V0ixzs0g.js"></script>
+
+  </body>
+</html>

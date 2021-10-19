@@ -1,59 +1,64 @@
-19-10-2021 15:10:07 :: INFO :: Création des dossier pour Montpellier
-19-10-2021 15:10:07 :: INFO :: Création du dossier Documents_SRC
+19-10-2021 15:38:28 :: INFO :: Création des dossier pour Montpellier
+19-10-2021 15:38:28 :: INFO :: Création du dossier Documents_SRC
 
-19-10-2021 15:10:07 :: INFO :: Lecture de keywords.txt ... 
+19-10-2021 15:38:28 :: INFO :: Lecture de keywords.txt ... 
 
-19-10-2021 15:10:07 :: INFO :: Début de la recherche de document concernant la ville de Montpellier
-19-10-2021 15:10:07 :: INFO :: Génération des requêtes
-19-10-2021 15:10:16 :: INFO :: Nouvelle requête : "Montpellier" AND production?agricole
+19-10-2021 15:38:28 :: INFO :: Début de la recherche de document concernant la ville de Montpellier
+19-10-2021 15:38:28 :: INFO :: Génération des requêtes
+19-10-2021 15:38:37 :: INFO :: Nouvelle requête : "Montpellier" AND production?agricole
 
-19-10-2021 15:10:16 :: INFO :: URL : https://www.pagesjaunes.fr/annuaire/montpellier-34/exploitation-agricole
+19-10-2021 15:38:37 :: INFO :: URL : https://fr.mappy.com/activite/agriculteurs/34000-montpellier
 
-19-10-2021 15:10:16 :: INFO :: Erreur pour l'URL : https://www.pagesjaunes.fr/annuaire/montpellier-34/exploitation-agricole
+19-10-2021 15:38:37 :: INFO :: Document sauvegardé.
+19-10-2021 15:38:37 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:38:37 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:16 :: INFO :: URL : https://www.montpellier3m.fr/actualite/le-marche-dinteret-national-presente-sa-feuille-de-route-2021-2026
+19-10-2021 15:38:49 :: INFO :: Erreur pour l'URL : https://fr.mappy.com/activite/agriculteurs/34000-montpellier
 
-19-10-2021 15:10:17 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:17 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:17 :: INFO :: Texte nettoyé.
+19-10-2021 15:38:49 :: INFO :: URL : https://www.umontpellier.fr/articles/montpellier-pepiniere-de-lagriculture-de-demain
 
-19-10-2021 15:10:30 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:38:49 :: INFO :: Document sauvegardé.
+19-10-2021 15:38:50 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:38:50 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:30 :: INFO :: URL : http://www2.agroparistech.fr/Production-agricole-et-forestiere-3190.html
+19-10-2021 15:38:53 :: INFO :: Erreur pour l'URL : https://www.umontpellier.fr/articles/montpellier-pepiniere-de-lagriculture-de-demain
 
-19-10-2021 15:10:30 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:30 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:30 :: INFO :: Texte nettoyé.
+19-10-2021 15:38:53 :: INFO :: URL : https://www.herault-direct.fr/articles/1817/montpellier-l-eau-pour-la-production-agricole-est-au-coeur-des-sujets-d-actualite-abordes-sur-hydrogaia
 
-19-10-2021 15:10:33 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:38:54 :: INFO :: Document sauvegardé.
+19-10-2021 15:38:54 :: INFO :: Autre type de document téléchargé.
 
-19-10-2021 15:10:33 :: INFO :: URL : https://www.montpellier3m.fr/vivre-environnement/agro%C3%A9cologie-alimentation
+19-10-2021 15:38:54 :: INFO :: URL : http://www2.agroparistech.fr/Production-agricole-et-forestiere-3190.html
 
-19-10-2021 15:10:33 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:33 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:33 :: INFO :: Texte nettoyé.
+19-10-2021 15:38:54 :: INFO :: Document sauvegardé.
+19-10-2021 15:38:54 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:38:54 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:36 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:38:56 :: INFO :: Erreur pour l'URL : http://www2.agroparistech.fr/Production-agricole-et-forestiere-3190.html
 
-19-10-2021 15:10:36 :: INFO :: URL : https://www.paysandumidi.fr/articles/min-de-montpellier-coup-d-accelerateur-sur-la-relocalisation-des-produits-agricoles-524.htm
+19-10-2021 15:38:56 :: INFO :: URL : https://www.montpellier3m.fr/vivre-environnement/agro%C3%A9cologie-alimentation
 
-19-10-2021 15:10:36 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:36 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:36 :: INFO :: Texte nettoyé.
+19-10-2021 15:38:57 :: INFO :: Document sauvegardé.
+19-10-2021 15:38:57 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:38:57 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:39 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:48:45 :: INFO :: Lecture de keywords.txt ... 
 
-19-10-2021 15:10:39 :: INFO :: URL : https://www.ac-montpellier.fr/cid94012/fiches-diplomes-cio-montpellier-centre.html
+19-10-2021 15:48:45 :: INFO :: Début de la recherche de document concernant la ville de Montpellier
+19-10-2021 15:48:45 :: INFO :: Génération des requêtes
+19-10-2021 15:48:54 :: INFO :: Nouvelle requête : "Montpellier" AND production?agricole
 
-19-10-2021 15:10:39 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:39 :: ERROR :: Erreur lors de la conversion en texte de la page web.
+19-10-2021 15:48:54 :: INFO :: URL : https://www.ac-montpellier.fr/cid94012/fiches-diplomes-cio-montpellier-centre.html
+
+19-10-2021 15:48:54 :: INFO :: Document sauvegardé.
+19-10-2021 15:48:55 :: ERROR :: Erreur lors de la conversion en texte de la page web.
 Traceback (most recent call last):
-  File "/home/rodrique/Bureau/git/scrap_on_google_v3.ipynb", line 647, in sauvegarde_fichier_advanced
-    "# # str(val)\n",
-  File "/home/rodrique/Bureau/git/scrap_on_google_v3.ipynb", line 470, in convert_html_to_txt
-    "    return words, thematic\n",
-  File "/home/rodrique/Bureau/git/scrap_on_google_v3.ipynb", line 399, in less_html
-    "        signal.alarm(0)\n",
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google_v3.ipynb", line 647, in sauvegarde_fichier_advanced
+    "# # type(val.isocalendar())\n",
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google_v3.ipynb", line 470, in convert_html_to_txt
+    "    # Motif : JJ/MM/AAAA\n",
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google_v3.ipynb", line 399, in less_html
+    "\tnew_string = unicodedata.normalize('NFKD', string).encode('ascii', 'ignore').decode('utf-8')\n",
   File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
     return DEFAULTPARSER.parse(timestr, **kwargs)
   File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 646, in parse
@@ -65,55 +70,127 @@ Traceback (most recent call last):
   File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 76, in __init__
     '{itype}'.format(itype=instream.__class__.__name__))
 TypeError: Parser must be a string or character stream, not datetime
-19-10-2021 15:10:39 :: INFO :: URL : https://www.agrorientation.com/formations/licence-professionnelle-productions-agricoles-integrees-et-enjeux-environnementaux-integrated-and-organic-farming-1139.html
+19-10-2021 15:48:55 :: INFO :: URL : https://fr.mappy.com/activite/agriculteurs/34000-montpellier
 
-19-10-2021 15:10:40 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:40 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:40 :: INFO :: Texte nettoyé.
+19-10-2021 15:48:55 :: INFO :: Le document existe déjà.
 
-19-10-2021 15:10:43 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:48:55 :: INFO :: URL : http://www1.montpellier.inra.fr/PSDR/doc/Diagnostic-PSDR-LR.pdf
 
-19-10-2021 15:10:43 :: INFO :: URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+19-10-2021 15:48:55 :: INFO :: Document sauvegardé.
+19-10-2021 15:48:55 :: INFO :: Document PDF converti en texte brut.
+19-10-2021 15:48:55 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:43 :: INFO :: Erreur pour l'URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+19-10-2021 15:49:12 :: INFO :: Document inséré dans l'inventaire.
 
-19-10-2021 15:10:43 :: INFO :: URL : https://fr.indeed.com/Montpellier-(34)-Emplois-Agricole
+19-10-2021 15:49:12 :: INFO :: URL : https://fr.indeed.com/Montpellier-(34)-Emplois-Agricole
 
-19-10-2021 15:10:43 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:43 :: INFO :: Autre type de document téléchargé.
+19-10-2021 15:49:12 :: INFO :: Document sauvegardé.
+19-10-2021 15:49:12 :: INFO :: Autre type de document téléchargé.
 
-19-10-2021 15:10:43 :: INFO :: URL : https://www.herault-direct.fr/articles/1817/montpellier-l-eau-pour-la-production-agricole-est-au-coeur-des-sujets-d-actualite-abordes-sur-hydrogaia
+19-10-2021 15:49:12 :: INFO :: URL : https://herault.chambre-agriculture.fr/gerer-son-exploitation/diversifier-ses-activites/circuits-de-proximite/min-de-montpellier/
 
-19-10-2021 15:10:44 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:44 :: INFO :: Autre type de document téléchargé.
+19-10-2021 15:49:13 :: INFO :: Document sauvegardé.
+19-10-2021 15:49:13 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:49:13 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:44 :: INFO :: URL : https://epl.montpellier-orb-herault.educagri.fr/nos-sites/cfa-de-lherault
+19-10-2021 15:49:16 :: INFO :: Document inséré dans l'inventaire.
 
-19-10-2021 15:10:44 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:45 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:45 :: INFO :: Texte nettoyé.
+19-10-2021 15:49:16 :: INFO :: URL : https://labonneboite.pole-emploi.fr/entreprises/montpellier-34000/aide-agricole-de-production-fruitiere-ou-viticole
 
-19-10-2021 15:10:47 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:49:16 :: INFO :: Document sauvegardé.
+19-10-2021 15:49:17 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:49:17 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:47 :: INFO :: URL : https://draaf.occitanie.agriculture.gouv.fr/Plan-d-acces-et-contacts-site,6
+19-10-2021 15:49:19 :: INFO :: Document inséré dans l'inventaire.
 
-19-10-2021 15:10:48 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:48 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:48 :: INFO :: Texte nettoyé.
+19-10-2021 15:49:19 :: INFO :: URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
 
-19-10-2021 15:10:50 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:49:19 :: INFO :: Erreur pour l'URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
 
-19-10-2021 15:10:50 :: INFO :: URL : https://herault.chambre-agriculture.fr/gerer-son-exploitation/diversifier-ses-activites/circuits-de-proximite/min-de-montpellier/
+19-10-2021 15:49:19 :: INFO :: URL : https://www.entreprendre-montpellier.com/fr/choisir-montpellier/misez-sur-lagroecologie
 
-19-10-2021 15:10:53 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:54 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:54 :: INFO :: Texte nettoyé.
+19-10-2021 15:49:20 :: INFO :: Document sauvegardé.
+19-10-2021 15:49:20 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:49:20 :: INFO :: Texte nettoyé.
 
-19-10-2021 15:10:56 :: INFO :: Document inséré dans l'inventaire.
+19-10-2021 15:54:40 :: INFO :: Création des dossier pour Montpellier
+19-10-2021 15:54:40 :: INFO :: Création du dossier Documents_SRC
 
-19-10-2021 15:10:56 :: INFO :: URL : https://www.pacajob.com/emploi/domaine_agricole_ville_montpellier-34000.html
+19-10-2021 15:54:40 :: INFO :: Lecture de keywords.txt ... 
 
-19-10-2021 15:10:57 :: INFO :: Document sauvegardé.
-19-10-2021 15:10:57 :: INFO :: Document web converti en texte brut.
-19-10-2021 15:10:57 :: INFO :: Texte nettoyé.
+19-10-2021 15:54:40 :: INFO :: Début de la recherche de document concernant la ville de Montpellier
+19-10-2021 15:54:40 :: INFO :: Génération des requêtes
+19-10-2021 15:54:50 :: INFO :: Nouvelle requête : "Montpellier" AND production?agricole
+
+19-10-2021 15:54:50 :: INFO :: URL : https://languedoc.msa.fr/
+
+19-10-2021 15:54:52 :: INFO :: Document sauvegardé.
+19-10-2021 15:54:52 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:54:52 :: INFO :: Texte nettoyé.
+
+19-10-2021 15:55:05 :: INFO :: Document inséré dans l'inventaire.
+
+19-10-2021 15:55:05 :: INFO :: URL : https://www.umontpellier.fr/articles/tag/agriculture
+
+19-10-2021 15:55:07 :: INFO :: Document sauvegardé.
+19-10-2021 15:55:08 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:55:08 :: INFO :: Texte nettoyé.
+
+19-10-2021 15:55:10 :: INFO :: Document inséré dans l'inventaire.
+
+19-10-2021 15:55:10 :: INFO :: URL : https://www.pacajob.com/emploi/domaine_agricole_ville_montpellier-34000.html
+
+19-10-2021 15:55:11 :: INFO :: Document sauvegardé.
+19-10-2021 15:55:11 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:55:11 :: INFO :: Texte nettoyé.
+
+19-10-2021 15:55:13 :: INFO :: Document inséré dans l'inventaire.
+
+19-10-2021 15:55:13 :: INFO :: URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+
+19-10-2021 15:55:14 :: INFO :: Erreur pour l'URL : https://www.cairn.info/revue-espaces-et-societes-2014-3-page-49.htm
+
+19-10-2021 15:55:14 :: INFO :: URL : http://www.montpellier-supagro.fr/formations/catalogue-des-formations/recherche-d-une-formation/productions-agricoles-integrees-et
+
+19-10-2021 15:55:14 :: INFO :: Document sauvegardé.
+19-10-2021 15:55:14 :: ERROR :: Erreur lors de la conversion en texte de la page web.
+Traceback (most recent call last):
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google.ipynb", line 647, in sauvegarde_fichier_advanced
+    "# # type(val.isocalendar())\n",
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google.ipynb", line 470, in convert_html_to_txt
+    "    # Motif : JJ/MM/AAAA\n",
+  File "/home/rodrique/Bureau/git/protocole_collecte/scrap_on_google.ipynb", line 399, in less_html
+    "\tnew_string = unicodedata.normalize('NFKD', string).encode('ascii', 'ignore').decode('utf-8')\n",
+  File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 1374, in parse
+    return DEFAULTPARSER.parse(timestr, **kwargs)
+  File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 646, in parse
+    res, skipped_tokens = self._parse(timestr, **kwargs)
+  File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 725, in _parse
+    l = _timelex.split(timestr)         # Splits the timestr into tokens
+  File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 207, in split
+    return list(cls(s))
+  File "/home/rodrique/anaconda3/lib/python3.7/site-packages/dateutil/parser/_parser.py", line 76, in __init__
+    '{itype}'.format(itype=instream.__class__.__name__))
+TypeError: Parser must be a string or character stream, not datetime
+19-10-2021 15:55:14 :: INFO :: URL : https://fr.mappy.com/activite/agriculteurs/34000-montpellier
+
+19-10-2021 15:55:15 :: INFO :: Document sauvegardé.
+19-10-2021 15:55:15 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:55:15 :: INFO :: Texte nettoyé.
+
+19-10-2021 15:55:17 :: INFO :: Document inséré dans l'inventaire.
+
+19-10-2021 15:55:17 :: INFO :: URL : https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/master-mention-sciences-et-technologies-de-l-agriculture-de-l-alimentation-et-de-l-environnement
+
+19-10-2021 15:55:18 :: INFO :: Document sauvegardé.
+19-10-2021 15:55:18 :: INFO :: Document web converti en texte brut.
+19-10-2021 15:55:18 :: INFO :: Texte nettoyé.
+
+19-10-2021 15:55:21 :: INFO :: Document inséré dans l'inventaire.
+
+19-10-2021 15:55:21 :: INFO :: URL : https://www.cairn.info/journal-autrepart-2012-3-page-159.htm
+
+19-10-2021 15:55:21 :: INFO :: Erreur pour l'URL : https://www.cairn.info/journal-autrepart-2012-3-page-159.htm
+
+19-10-2021 15:55:21 :: INFO :: URL : https://www.cirad.fr/nos-activites-notre-impact/filieres-agricoles-tropicales
 
